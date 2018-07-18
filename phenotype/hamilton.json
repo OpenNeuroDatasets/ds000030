@@ -1,0 +1,168 @@
+{
+    "hamilton23": {
+        "Description": "23. Social Withdrawal",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton17": {
+        "Description": "17. Insight",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton24": {
+        "Description": "24. Appetite Increase",
+        "MinValue": "0",
+        "MaxValue": "3"
+    },
+    "hamilton4": {
+        "Description": "4. Insomnia, Early",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Hamilton Psychiatric Rating Scale for Depression",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_559e2af1cc0ce"
+    },
+    "hamilton13": {
+        "Description": "13. Somatic Symptoms, General",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton28": {
+        "Description": "28. Hypersomnia",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton27": {
+        "Description": "27. Weight Gain",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamd_28": {
+        "Description": "sum items 1-28 (including 16A, 16B, and 18B--but not 18A followingRating Instructions)",
+        "Derivative": true
+    },
+    "hamilton3": {
+        "Description": "3. Suicide",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton8": {
+        "Description": "8. Retardation",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton2": {
+        "Description": "2. Feelings of Guilt",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton15": {
+        "Description": "15. Hypochondriasis",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton14": {
+        "Description": "14. Gential Symtoms",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton7": {
+        "Description": "7. Work Activities",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton20": {
+        "Description": "20. Paranoid Symptoms",
+        "MinValue": "0",
+        "MaxValue": "3"
+    },
+    "hamilton6": {
+        "Description": "6. Insomnia, Late",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamd_21": {
+        "Description": "sum items 1-21 (including 16A, 16B, and 18B--but not 18A followingRating Instructions)",
+        "Derivative": true
+    },
+    "hamilton12": {
+        "Description": "12. Somatic Symptoms, Gastrointestinal",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamd_17": {
+        "Description": "sum items 1-17 (including 16A and 16B)",
+        "Derivative": true
+    },
+    "hamilton10": {
+        "Description": "10. Anxiety, Psychic",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton9": {
+        "Description": "9. Agitation",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton11": {
+        "Description": "11. Anxiety, Somatic",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton21": {
+        "Description": "21. Obsessional and Compulsive Symptoms",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton5": {
+        "Description": "5. Insomnia, Middle",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton25": {
+        "Description": "25. Increased Eating",
+        "MinValue": "0",
+        "MaxValue": "3"
+    },
+    "hamilton16b": {
+        "Description": "16B. Loss of Weight: When Actual Weight Changes",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton26": {
+        "Description": "26. Carbohydrate Craving",
+        "MinValue": "0",
+        "MaxValue": "3"
+    },
+    "hamilton1": {
+        "Description": "1. Depression",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton19": {
+        "Description": "19. Depresonalization and Derealization",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton18a": {
+        "Description": "18A. Diurnal Variation: If No",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton18b": {
+        "Description": "18B. Diurnal Variation: When present",
+        "MinValue": "0",
+        "MaxValue": "2"
+    },
+    "hamilton22": {
+        "Description": "22. Fatigability",
+        "MinValue": "0",
+        "MaxValue": "4"
+    },
+    "hamilton16a": {
+        "Description": "16A. Loss of Weight: When Rating By History",
+        "MinValue": "0",
+        "MaxValue": "2"
+    }
+}

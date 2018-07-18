@@ -1,0 +1,194 @@
+{
+    "rk_percentronecorrect": {
+        "Description": "Percent K responses with 1 features (pairword/color) recognized during validation",
+        "Derivative": true
+    },
+    "rk_recpfp": {
+        "Description": "percent false positive",
+        "Derivative": true
+    },
+    "rk_rectp": {
+        "Description": "number true positives",
+        "Derivative": true
+    },
+    "rk_recpfp_k": {
+        "Description": "Percent false positive K responses",
+        "Derivative": true
+    },
+    "rk_tcacc": {
+        "Description": "Number of correctly identified colors (on R and K responses only)",
+        "Derivative": true
+    },
+    "rk_kwaccp": {
+        "Description": "number of correctly recognized pairwords per K response",
+        "Derivative": true
+    },
+    "rk_rtwocorrect": {
+        "Description": "number of items on which 2 features were recalled during validation when and Rresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_rcacc": {
+        "Description": "number of correctly recognized colors on R responses",
+        "Derivative": true
+    },
+    "rk_rwacc": {
+        "Description": "number of correctly recognized pairwords on R responses",
+        "Derivative": true
+    },
+    "rk_nfoils": {
+        "Description": "number of foils",
+        "Derivative": true
+    },
+    "rk_kcaccp": {
+        "Description": "number of correctly recognized colors per K response",
+        "Derivative": true
+    },
+    "rk_rrt": {
+        "Description": "mean reaction time for R responses",
+        "Derivative": true
+    },
+    "rk_ronecorrect": {
+        "Description": "number of items on which 1 feature was recalled during validation when and R response was given during recognition",
+        "Derivative": true
+    },
+    "rk_recpfp_r": {
+        "Description": "Percent false positive R responses",
+        "Derivative": true
+    },
+    "rk_recso": {
+        "Description": "number of omissions on studied items",
+        "Derivative": true
+    },
+    "rk_krt": {
+        "Description": "mean reaction time for K responses",
+        "Derivative": true
+    },
+    "rk_kcacc": {
+        "Description": "number of correctly recognized colors on K responses",
+        "Derivative": true
+    },
+    "rk_konecorrect": {
+        "Description": "number of items on which 1 feature was recalled during validation when and K response was given during recognition",
+        "Derivative": true
+    },
+    "rk_rktwo": {
+        "Description": "number of items on which 2 features were recalled during validation when and R or Kresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_percentkzerocorrect": {
+        "Description": "Percent R responses with 0 features (pairword/color) recognized during validation",
+        "Derivative": true
+    },
+    "rk_recfp_k": {
+        "Description": "number of false positive K responses",
+        "Derivative": true
+    },
+    "rk_rzerocorrect": {
+        "Description": "number of items on which 0 features were recalled during validation when and Rresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_twacc": {
+        "Description": "Number correctly identified words (on R and K responses only)",
+        "Derivative": true
+    },
+    "rk_rcaccp": {
+        "Description": "number of correctly recognized colors per R response",
+        "Derivative": true
+    },
+    "rk_kzerocorrect": {
+        "Description": "number of items on which 0 features were recalled during validation when and Kresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_notrnotk": {
+        "Description": "number of omissions on studied items + number of omissions on unstudied items",
+        "Derivative": true
+    },
+    "rk_nsi": {
+        "Description": "Number of Studied Items (should be 60, unless task was terminated early)",
+        "Derivative": true
+    },
+    "rk_caccp": {
+        "Description": "Percentage of correctly identified colors (on R and K responses only)",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Remember-know task",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_4da63146f12d7"
+    },
+    "rk_waccp": {
+        "Description": "Percentage correctly identified words (on R and K responses only)",
+        "Derivative": true
+    },
+    "rk_ktwocorrect": {
+        "Description": "number of items on which 2 features were recalled during validation when and Kresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_rkzero": {
+        "Description": "number of items on which 0 features were recalled during validation when and R or Kresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_kwacc": {
+        "Description": "number of correctly recognized pairwords on K responses",
+        "Derivative": true
+    },
+    "rk_percentrzerocorrect": {
+        "Description": "Percent K responses with 0 features (pairword/color) recognized during validation",
+        "Derivative": true
+    },
+    "rk_kresponse": {
+        "Description": "number of K responses",
+        "Derivative": true
+    },
+    "rk_percentkonecorrect": {
+        "Description": "Percent R responses with 1 features (pairword/color) recognized during validation",
+        "Derivative": true
+    },
+    "rk_percentktwocorrect": {
+        "Description": "Percent R responses with 2 features (pairword/color) recognized during validation",
+        "Derivative": true
+    },
+    "rk_rkone": {
+        "Description": "number of items on which 1 feature was recalled during validation when and R or Kresponse was given during recognition",
+        "Derivative": true
+    },
+    "rk_encacc": {
+        "Description": "number of  correctly identified colored picture locations (left/right) out of 60 during encoding: can be useful in case of a crash",
+        "Derivative": true
+    },
+    "rk_recfn": {
+        "Description": "number of false negatives",
+        "Derivative": true
+    },
+    "rk_recfp": {
+        "Description": "number of false positives",
+        "Derivative": true
+    },
+    "rk_recptp": {
+        "Description": "percent true positive",
+        "Derivative": true
+    },
+    "rk_recfp_r": {
+        "Description": "number of false positive R responses",
+        "Derivative": true
+    },
+    "rk_percentrtwocorrect": {
+        "Description": "Percent K responses with 2 features (pairword/color) recognized during validation",
+        "Derivative": true
+    },
+    "rk_rresponse": {
+        "Description": "number of R responses",
+        "Derivative": true
+    },
+    "rk_rwaccp": {
+        "Description": "number of correctly recognized pairwords per R response",
+        "Derivative": true
+    },
+    "rk_recuo": {
+        "Description": "number of omissions on unstudied items",
+        "Derivative": true
+    },
+    "rk_rectn": {
+        "Description": "number of true negatives",
+        "Derivative": true
+    }
+}

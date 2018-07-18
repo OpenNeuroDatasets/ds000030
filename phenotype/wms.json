@@ -1,0 +1,169 @@
+{
+    "ds_ldss": {
+        "Description": "5. Last Digit Span Sequencing",
+        "MinValue": "0",
+        "MaxValue": "9"
+    },
+    "vr1ir_time1": {
+        "Description": "1. Item 1 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "vr2r_totalraw": {
+        "Description": "1. VR II Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "7"
+    },
+    "vr2dr_time3": {
+        "Description": "3. Item 3 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Wechsler Memory Scale",
+        "TermURL": "http://www.cognitiveatlas.org/term/id/trm_4b94b12bf0eb2"
+    },
+    "vr1ir_total1": {
+        "Description": "6. Item 1 Total",
+        "MinValue": "0",
+        "MaxValue": "5"
+    },
+    "ds_ftrs": {
+        "Description": "2. Forward Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "16"
+    },
+    "vr2dr_time2": {
+        "Description": "2. Item 2 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "vr1ir_time5": {
+        "Description": "5. Item 5 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "ds_ldsb": {
+        "Description": "3. Last Digit Span Backward",
+        "MinValue": "0",
+        "MaxValue": "8"
+    },
+    "vr2dr_total5": {
+        "Description": "10. Item 5 Total",
+        "MinValue": "0",
+        "MaxValue": "13"
+    },
+    "vr1ir_total5": {
+        "Description": "10. Item 5 Total",
+        "MinValue": "0",
+        "MaxValue": "13"
+    },
+    "vr2dr_total3": {
+        "Description": "8. Item 3 Total",
+        "MinValue": "0",
+        "MaxValue": "7"
+    },
+    "vr1ir_time2": {
+        "Description": "2. Item 2 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "vr1ir_total3": {
+        "Description": "8. Item 3 Total",
+        "MinValue": "0",
+        "MaxValue": "7"
+    },
+    "vr2dr_time1": {
+        "Description": "1. Item 1 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "vr2dr_time4": {
+        "Description": "4. Item 4 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "vr1ir_total4": {
+        "Description": "9. Item 4 Total",
+        "MinValue": "0",
+        "MaxValue": "13"
+    },
+    "vr2dr_total1": {
+        "Description": "6. Item 1 Total",
+        "MinValue": "0",
+        "MaxValue": "5"
+    },
+    "vr1ir_total2": {
+        "Description": "7. Item 2 Total",
+        "MinValue": "0",
+        "MaxValue": "5"
+    },
+    "vr1ir_time4": {
+        "Description": "4. Item 4 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "ssp_totalraw": {
+        "Description": "1. SSP Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "50"
+    },
+    "vr2dr_total2": {
+        "Description": "7. Item 2 Total",
+        "MinValue": "0",
+        "MaxValue": "5"
+    },
+    "vr2dr_totalraw": {
+        "Description": "11. VR II Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "43"
+    },
+    "vr2dr_total4": {
+        "Description": "9. Item 4 Total",
+        "MinValue": "0",
+        "MaxValue": "13"
+    },
+    "vr1ir_totalraw": {
+        "Description": "11. VR I Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "43"
+    },
+    "ds_ldsf": {
+        "Description": "1. Last Digit Span Forward",
+        "MinValue": "0",
+        "MaxValue": "9"
+    },
+    "ds_totalraw": {
+        "Description": "7. Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "48"
+    },
+    "vr1ir_time3": {
+        "Description": "3. Item 3 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    },
+    "ds_strs": {
+        "Description": "6. Sequencing Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "16"
+    },
+    "ds_btrs": {
+        "Description": "4. Backward Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "16"
+    },
+    "vr2dr_time5": {
+        "Description": "5. Item 5 Time (seconds)",
+        "MinValue": "0",
+        "MaxValue": "300.0"
+    }
+}

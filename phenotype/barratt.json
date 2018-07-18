@@ -1,0 +1,376 @@
+{
+    "barratt18": {
+        "Description": "18. I get easily bored when solving thought problems.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_2npimp": {
+        "Description": "A 2nd order factor summary variable with 11 items (1*, 7*, 8*, 10*, 12*,13*, 14, 15*, 18, 27, 29*) for Nonplanning Impulsiveness (Self-Control and Cognitive Complexity)",
+        "Derivative": true
+    },
+    "bis_parcel10": {
+        "Description": "10. No cognitive mediation (mean of items 14, 2 and 5)",
+        "Derivative": true
+    },
+    "barratt22": {
+        "Description": "22. I buy things on impulse.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt1": {
+        "Description": "1. I plan tasks carefully.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_parcel3": {
+        "Description": "3. Can\u2019t sit still (mean of items 11 and 28)",
+        "Derivative": true
+    },
+    "bis_parcel4": {
+        "Description": "4. Lives in the moment (mean of items 13*, 30* and 27)",
+        "Derivative": true
+    },
+    "bis_1atten": {
+        "Description": "A 1st order factor summary variable with 5 items (5, 9*, 11, 20*, 28) forAttention",
+        "Derivative": true
+    },
+    "barratt28": {
+        "Description": "28. I am restless at lectures or talks.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt21": {
+        "Description": "21. I change where I live.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt17": {
+        "Description": "17. I act \"on impulse\".",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt25": {
+        "Description": "25. I spend or charge more than I earn.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt30": {
+        "Description": "30. I plan for the future.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt20": {
+        "Description": "20. I am a steady thinker.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_parcel1": {
+        "Description": "1. Acts impulsively (mean of item 19 and 17)",
+        "Derivative": true
+    },
+    "barratt5": {
+        "Description": "5. I don't \"pay attention\".",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt23": {
+        "Description": "23. I can only think about one problem at a time.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt14": {
+        "Description": "14. I say things without thinking.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_briefbis": {
+        "Description": "Sum the following items, with * denoting reverse scoring:1* + 2 + 5 + 8* + 9* + 12* + 14 + 19",
+        "Derivative": true
+    },
+    "barratt13": {
+        "Description": "13. I plan for job security.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_1cogcom": {
+        "Description": "A 1st order factor summary variable with 5 items (10*, 15*, 18, 27, 29*)for Cognitive Complexity",
+        "Derivative": true
+    },
+    "bis_1sc": {
+        "Description": "A 1st order factor summary variable with 6 items (1*, 7*, 8*, 12*, 13*, 14)for Self-Control",
+        "Derivative": true
+    },
+    "bis_factor2": {
+        "Description": "BISFACTOR-2Add Parcel  1 + 3 + 5 + 6(These are based on previous work and shouldn't be used; use the more recent ones below)",
+        "Derivative": true
+    },
+    "barratt7": {
+        "Description": "7. I plan trips well ahead of time.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_parcel6": {
+        "Description": "6. Extraneous/Racing thoughts (mean of items 26 and 6)",
+        "Derivative": true
+    },
+    "barratt10": {
+        "Description": "10. I save regularly.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_parcel8": {
+        "Description": "8. Buying and spending sprees (mean of items 10*, 25 and 22)",
+        "Derivative": true
+    },
+    "bis_2attimp": {
+        "Description": "A 1st order factor summary variable with 8 items (6, 5, 9*, 11, 20*, 24, 26,28) for Attentional Impulsiveness (Attention and Cognitive Instability)",
+        "Derivative": true
+    },
+    "bis_parcel5": {
+        "Description": "5. Changes, moves around (mean of items 21, 16 and 24)",
+        "Derivative": true
+    },
+    "barratt27": {
+        "Description": "27. I am more interested in the present than the future.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Barratt Impulsiveness Scale",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_55a6a8e81b7f4"
+    },
+    "barratt16": {
+        "Description": "16. I change jobs.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_factor2_bi": {
+        "Description": "BIS_FACTOR2_Behavioral Impulsivity: Sum of Parcels 1, 5 and 6 (based on most recent work by Reise et al., in press)",
+        "Derivative": true
+    },
+    "barratt4": {
+        "Description": "4. I am happy-go-lucky.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_parcel2": {
+        "Description": "2. Not planful (mean of items 1* and 7*)",
+        "Derivative": true
+    },
+    "bis_parcel7": {
+        "Description": "7. No concentration/self-control (mean of items 8* and 9*)",
+        "Derivative": true
+    },
+    "barratt26": {
+        "Description": "26. I have outside thoughts when thinking.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_1coginst": {
+        "Description": "A 1st order factor summary variable with 3 items (6, 24, 26) for CognitiveInstability",
+        "Derivative": true
+    },
+    "barratt11": {
+        "Description": "11. I \"squirm\" at plays or lectures.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_factor1_ci": {
+        "Description": "BIS_FACTOR1_Cognitive Impulsivity: Sum of Parcels 2, 7 and 9 (based on most recent work by Reise et al., in press)",
+        "Derivative": true
+    },
+    "bis_factor1": {
+        "Description": "BISFACTOR-1Add Parcel 2 + 4 + 7 + 9 + 11(These are based on previous work and shouldn't be used; use the more recent ones below)",
+        "Derivative": true
+    },
+    "barratt15": {
+        "Description": "15. I like to think about complex problems.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt12": {
+        "Description": "12. I am a careful thinker.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_parcel9": {
+        "Description": "9. Not a steady thinker (mean of items 20* and 12*)",
+        "Derivative": true
+    },
+    "barratt2": {
+        "Description": "2. I do things without thinking.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt29": {
+        "Description": "29. I like puzzles.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_2motimp": {
+        "Description": "A 2nd order factor summary variable with 11 items (2, 3, 4, 16, 17, 19, 21,22, 23, 25, 30*) for Motor Impulsiveness (Motor and Perseverance)",
+        "Derivative": true
+    },
+    "bis_parcel11": {
+        "Description": "11. Likes complicated things (mean of items 15*, 29*, 18 and 23)",
+        "Derivative": true
+    },
+    "bis_1pers": {
+        "Description": "A 1st order factor summary variable with 4 items (16, 21, 23, 30*) forPerserverance",
+        "Derivative": true
+    },
+    "barratt19": {
+        "Description": "19. I act on the spur of the moment.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "bis_1mot": {
+        "Description": "A 1st order factor summary variable with 7 items (2, 3, 4, 17, 19, 22, 25)for Motor",
+        "Derivative": true
+    },
+    "barratt8": {
+        "Description": "8. I am self-controlled.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt24": {
+        "Description": "24. I change hobbies.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt9": {
+        "Description": "9. I concentrate easily.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt6": {
+        "Description": "6. I have \"racing\" thoughts.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    },
+    "barratt3": {
+        "Description": "3. I make up my mind quickly.",
+        "Levels": {
+            "3": "Often",
+            "4": "Almost Always",
+            "1": "Rarely",
+            "2": "Occasionally"
+        }
+    }
+}

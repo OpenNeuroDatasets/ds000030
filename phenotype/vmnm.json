@@ -1,0 +1,58 @@
+{
+    "vmnm_trialcount": {
+        "Description": "Total number of trials completed (full experiment  40)",
+        "Derivative": true
+    },
+    "vmnm_main_acc": {
+        "Description": "Total number of maintenance trials responded to correctly",
+        "Derivative": true
+    },
+    "vmnm_main_mdrt": {
+        "Description": "Median Reaction Time for Maintenance",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Verbal Memory and Manipulation Task",
+        "TermURL": ""
+    },
+    "vmnm_manip_tt": {
+        "Description": "Number manipulation trials responded to",
+        "Derivative": true
+    },
+    "vmnm_main_mnrt": {
+        "Description": "Mean Reaction Time for Maintenance task",
+        "Derivative": true
+    },
+    "vmnm_main_tt": {
+        "Description": "Number of Maintenance trials responded to",
+        "Derivative": true
+    },
+    "vmnm_manip_mdrt": {
+        "Description": "Median Reaction Time for Manipulation",
+        "Derivative": true
+    },
+    "vmnm_manip_sdrt": {
+        "Description": "SD for Manipulation task RTs",
+        "Derivative": true
+    },
+    "vmnm_manip_acc": {
+        "Description": "Total number of manipulation trials responded to correctly",
+        "Derivative": true
+    },
+    "vmnm_manip_mn": {
+        "Description": "Mean Accuracy for Manipulation trials",
+        "Derivative": true
+    },
+    "vmnm_manip_mnrt": {
+        "Description": "Mean Reaction Time for Manipulation task",
+        "Derivative": true
+    },
+    "vmnm_main_sdrt": {
+        "Description": "SD for Maintenance task RTs",
+        "Derivative": true
+    },
+    "vmnm_main_mn": {
+        "Description": "Mean Accuracy for Maintenance trials",
+        "Derivative": true
+    }
+}

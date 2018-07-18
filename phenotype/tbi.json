@@ -1,0 +1,70 @@
+{
+    "tbifirst": {
+        "Description": "a. Age at first head injury in years",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "tbi3": {
+        "Description": "3. Did you ever experience any symptoms immediately after a head injury\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "tbi4": {
+        "Description": "4. Did you receive any kind of medical attention/treatment for a head injury\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Traumatic Brain Injury Screener",
+        "TermURL": ""
+    },
+    "tbirecent": {
+        "Description": "b. Age at most recent head injury in years",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "tbi1": {
+        "Description": "1. Have you ever had a head injury or concussion\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "tbi2": {
+        "Description": "2. Did you ever get knocked out or lose consciousness as a result of a head injury\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "tbinumber": {
+        "Description": "c. Record the number of head injuries reported",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "tbisource": {
+        "Description": "e. Source of inofrmation",
+        "Levels": {
+            "3": "Both subject & Parent",
+            "1": "Subject only",
+            "2": "Parent only"
+        }
+    },
+    "tbirating": {
+        "Description": "d. Rating of most severe head injury from above",
+        "Levels": {
+            "8": "Head injury with LOC/coma lasting 6 hours or more",
+            "6": "Mild head injury with LOC for between 2-30 minutes.... lasting !7 days to 2 months",
+            "3": "Mild head injury/concussion with brief loss of consciousness",
+            "4": "Mild head injury with LOC for between 2-30 minutes.... lasting 1-24 hours",
+            "2": "Mild head injury/concussion with no loss of consciousness",
+            "5": "Mild head injury with LOC for between 2-30 minutes.... lasting 1-7 days",
+            "7": "Mild head injury with LOC for between 30 minutes-5 hours",
+            "1": "No Head Injury"
+        }
+    }
+}

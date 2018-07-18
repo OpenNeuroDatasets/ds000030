@@ -1,0 +1,131 @@
+{
+    "plate14purple": {
+        "Description": "Plate 14 Purple",
+        "Levels": {
+            "Purple Purple(Red) Red Red(Purple)": "",
+            "Can trace two lines": ""
+        }
+    },
+    "plate5": {
+        "Description": "Plate 5",
+        "Levels": {
+            "Nothing": "",
+            "74": "",
+            "21": ""
+        }
+    },
+    "plate13": {
+        "Description": "Plate 13",
+        "Levels": {
+            "96": "",
+            "9": "",
+            "6/(9)6": "",
+            "9(6)": ""
+        }
+    },
+    "plate2": {
+        "Description": "Plate 2",
+        "Levels": {
+            "8": "",
+            "3": "",
+            "Nothing": ""
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Color vision",
+        "TermURL": ""
+    },
+    "plate14red": {
+        "Description": "Plate 14 Red",
+        "Levels": {
+            "Purple Purple(Red) Red Red(Purple)": "",
+            "Can trace two lines": ""
+        }
+    },
+    "plate1": {
+        "Description": "Plate 1",
+        "Levels": {
+            "12": "",
+            "Nothing": ""
+        }
+    },
+    "la2kcolor_colordeficiency": {
+        "Description": "Sum of the above 2 total counts: indicator of Color Deficiency based on number of plates that the subject couldn't complete",
+        "Derivative": true
+    },
+    "plate4": {
+        "Description": "Plate 4",
+        "Levels": {
+            "29": "",
+            "Nothing": "",
+            "70": ""
+        }
+    },
+    "plate9": {
+        "Description": "Plate 9",
+        "Levels": {
+            "Nothing": "",
+            "2": ""
+        }
+    },
+    "plate8": {
+        "Description": "Plate 8",
+        "Levels": {
+            "Nothing": "",
+            "2": ""
+        }
+    },
+    "plate11": {
+        "Description": "Plate 11",
+        "Levels": {
+            "Traceable": "",
+            "Nothing": ""
+        }
+    },
+    "plate3": {
+        "Description": "Plate 3",
+        "Levels": {
+            "5": "",
+            "Nothing": "",
+            "2": ""
+        }
+    },
+    "plate12": {
+        "Description": "Plate 12",
+        "Levels": {
+            "5/(3)5": "",
+            "3": "",
+            "3(5)": "",
+            "35": ""
+        }
+    },
+    "la2kcolor_nottrace": {
+        "Description": "Total count  of entries other than \"Traceable\" across Plates 11,14PURPLE, and 14RED (where the object couldn't be traced).",
+        "Derivative": true
+    },
+    "la2kcolor_nox": {
+        "Description": "Total count of the number of \"X\"s across Plates 1-10, 12-13 (where number couldn't be stated)",
+        "Derivative": true
+    },
+    "plate6": {
+        "Description": "Plate 6",
+        "Levels": {
+            "Nothing": "",
+            "7": ""
+        }
+    },
+    "plate7": {
+        "Description": "Plate 7",
+        "Levels": {
+            "45": "",
+            "Nothing": ""
+        }
+    },
+    "plate10": {
+        "Description": "Plate 10",
+        "Levels": {
+            "16": "",
+            "Nothing": ""
+        }
+    }
+}
