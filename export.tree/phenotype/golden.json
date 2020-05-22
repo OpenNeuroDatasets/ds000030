@@ -1,0 +1,59 @@
+{
+    "golden3": {
+        "Description": "20. My sex life is satisfactory.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "golden_sumscore": {
+        "Description": "Summary Score: For items 1, 2, 4 and 5, True    1 point; items 3, 6, and7, False    1 point.",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Golden & Meehl's Seven MMPI Items Selected by Taxonomic Method",
+        "TermURL": ""
+    },
+    "golden4": {
+        "Description": "317. I am more sensitive than most other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "golden5": {
+        "Description": "284. I am sure I am being talked about.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "golden1": {
+        "Description": "61. I have not lived the right kind of life.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "golden6": {
+        "Description": "501. I usually work things out for myself rather than get someone to show me how.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "golden7": {
+        "Description": "207. I enjoy many different kinds of play and recreation.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "golden2": {
+        "Description": "239. I have been disappointed in love.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "hand4": {
+        "Description": "4. Scissors",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand2": {
+        "Description": "2. Drawing",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand6": {
+        "Description": "6. Knife (without fork)",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand7": {
+        "Description": "7. Spoon",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Modified Edinburgh Handedness Inventory",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/tsk_4a57abb949a41"
+    },
+    "hand1": {
+        "Description": "1. Writing",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "leg": {
+        "Description": "11. Which foot do you prefer to kick with\"",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "handscore": {
+        "Description": "(R - L) / (R + L)(meaning responses of Either (3) or No experience (0) are ignored in the calculation of Handedness Score)",
+        "Derivative": true
+    },
+    "hand10": {
+        "Description": "10. Opening a box (lid)",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand3": {
+        "Description": "3. Throwing",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand5": {
+        "Description": "5. Toothbrush",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand9": {
+        "Description": "9. Striking a Match (match)",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "hand8": {
+        "Description": "8. Broom (upper hand)",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "eye": {
+        "Description": "12. Which eye do you use when using only one\" (e.g., As if looking into a telescope)",
+        "Levels": {
+            "0": "No Experience with object or task",
+            "3": "EITHER",
+            "1": "LEFT",
+            "2": "RIGHT"
+        }
+    },
+    "rightscore": {
+        "Description": "Total count of Right responses (2) across items 1-10.",
+        "Derivative": true
+    },
+    "leftscore": {
+        "Description": "Total count of Left responses (1) across items 1-10.",
+        "Derivative": true
+    }
+}

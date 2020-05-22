@@ -1,0 +1,78 @@
+{
+    "cpt_md_h_750": {
+        "Description": "Median RT inhib False when delay  750",
+        "Derivative": true
+    },
+    "cpt_hits": {
+        "Description": "Total correct go (response to non-X stimuli)",
+        "Derivative": true
+    },
+    "cpt_sd_h_3750": {
+        "Description": "SD RT inhibition false alarms delay  3750",
+        "Derivative": true
+    },
+    "cpt_sd_h": {
+        "Description": "SD RT correct go",
+        "Derivative": true
+    },
+    "cpt_mn_h_3750": {
+        "Description": "Mean RT inhibition false alarms for when delay  3750",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Continuous Performance Test",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_57c0c34e61fdf"
+    },
+    "cpt_mn_h_750": {
+        "Description": "Mean RT inhibition false alarms for when delay  750",
+        "Derivative": true
+    },
+    "cpt_fa": {
+        "Description": "Total false alarms (response to 'no-go' X stimuli)",
+        "Derivative": true
+    },
+    "cpt_md_h_1750": {
+        "Description": "Median RT inhib False when delay  1750",
+        "Derivative": true
+    },
+    "cpt_mn_h_1750": {
+        "Description": "Mean RT inhibition false alarms for when delay  1750",
+        "Derivative": true
+    },
+    "cpt_sd_h_1750": {
+        "Description": "SD RT inhibition false alarms delay  1750",
+        "Derivative": true
+    },
+    "cpt_sd_h_750": {
+        "Description": "SD RT inhibition false alarms delay  750",
+        "Derivative": true
+    },
+    "cpt_mn_h": {
+        "Description": "Mean RT correct go",
+        "Derivative": true
+    },
+    "cpt_inh_cnt_750": {
+        "Description": "Number of correct inhibited for delay  750",
+        "Derivative": true
+    },
+    "cpt_inh_cnt_3750": {
+        "Description": "Number of correct inhibited for delay  3750",
+        "Derivative": true
+    },
+    "cpt_md_h": {
+        "Description": "Median RT correct go",
+        "Derivative": true
+    },
+    "cpt_miss": {
+        "Description": "Number of missed go (no response to non-X stimuli)",
+        "Derivative": true
+    },
+    "cpt_inh_cnt_1750": {
+        "Description": "Number of correct inhibited for delay  1750",
+        "Derivative": true
+    },
+    "cpt_md_h_3750": {
+        "Description": "Median RT inhib False when delay  3750",
+        "Derivative": true
+    }
+}

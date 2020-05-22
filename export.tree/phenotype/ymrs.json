@@ -1,0 +1,121 @@
+{
+    "ymrs3": {
+        "Description": "3. Sexual Interest",
+        "Levels": {
+            "0": "Normal; not increased",
+            "3": "Spontaneous sexual content; elaborates on sexual matters; hypersexual by self-report",
+            "4": "Overt sexual acts (toward patients staff or interviewer)",
+            "1": "Mildly or possibly increased",
+            "2": "Definite subjective increase on questioning"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Young Mania Rating Scale",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_558702243da12"
+    },
+    "ymrs4": {
+        "Description": "4. Sleep",
+        "Levels": {
+            "0": "Reports no decrease in sleep",
+            "3": "Reports decreased need for sleep",
+            "4": "Denies need for sleep",
+            "1": "Sleeping less than normal amount by up to one hour",
+            "2": "Sleeping less than normal by more than one hour"
+        }
+    },
+    "ymrs_score": {
+        "Description": "sum items 1-11",
+        "Derivative": true
+    },
+    "ymrs7": {
+        "Description": "7. Language - Thought Disorder",
+        "Levels": {
+            "0": "Absent",
+            "3": "Flight of ideas; tangentiality; difficult to follow; rhyming echolalia",
+            "4": "Incoherent; communication impossible",
+            "1": "Circumstantial; mild distractibility; quick thoughts",
+            "2": "Distractible; loses goal of thought; changes topics frequently; racing thoughts"
+        }
+    },
+    "ymrs9": {
+        "Description": "9. Disruptive - Aggressive Behavior",
+        "Levels": {
+            "0": "Absent cooperative",
+            "3": "Threatens interviewer shouting; interview difficult",
+            "4": "Assaultive; destructive; interview impossible",
+            "1": "Sarcastic; loud at times guarded",
+            "2": "Demanding; threats on ward"
+        }
+    },
+    "ymrs8": {
+        "Description": "8. Content",
+        "Levels": {
+            "8": "Delusions; hallucinations",
+            "0": "Normal",
+            "4": "Special project(s); hyper religious",
+            "2": "Questionable plans; new interests",
+            "6": "Grandiose or paranoid ideas; ideas of reference"
+        }
+    },
+    "ymrs1": {
+        "Description": "1. Elevated Mood",
+        "Levels": {
+            "0": "Absent",
+            "3": "Elevated inappropriate to content; humorous",
+            "4": "Euphoric; inappropriate laughter; singing",
+            "1": "Mildly or possibly increased on questioning",
+            "2": "Definite subjective elevation: optimistic self-confident; Cheerful; appropriate to content"
+        }
+    },
+    "ymrs6": {
+        "Description": "6. Speech (Rate and Amount)",
+        "Levels": {
+            "8": "Pressured; uninterruptible continuous speech",
+            "0": "No increase",
+            "4": "Increased rate or amount at times verbose at times",
+            "2": "Feels talkative",
+            "6": "Push; consistently increased rate and amount; difficult to interrupt"
+        }
+    },
+    "ymrs11": {
+        "Description": "11. Insight",
+        "Levels": {
+            "3": "Admits possible change in behavior",
+            "4": "Denies any behavior change",
+            "2": "Admits behavior change but denies illness",
+            "0": "Present; admits illness; agrees with need for treatment",
+            "but": "denies illness",
+            "1": "Possibly ill"
+        }
+    },
+    "ymrs5": {
+        "Description": "5. Irritability",
+        "Levels": {
+            "8": "Hostile uncooperative; interview impossible",
+            "0": "Absent",
+            "4": "Irritable at times during interview; recent episodes of anger or annoyance on ward",
+            "2": "Subjectively increased",
+            "6": "Frequently irritable during interview; short curt throughout"
+        }
+    },
+    "ymrs2": {
+        "Description": "2. Increased Motor Activity-Energy",
+        "Levels": {
+            "0": "Absent",
+            "3": "Excessive energy; hyperactive at times; restless (can be calmed)",
+            "4": "Motor excitement; continuous hyperactivity (cannot be calmed)",
+            "1": "Subjectively increased",
+            "2": "Animated; gestures increased"
+        }
+    },
+    "ymrs10": {
+        "Description": "10. Appearance",
+        "Levels": {
+            "0": "Appropriate dress and grooming",
+            "3": "Disheveled; partly clothed; garish make-up",
+            "4": "Completely unkempt; decorated; bizarre garb",
+            "1": "Minimally unkempt",
+            "2": "Poorly groomed; moderately disheveled; overdressed"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "visualacuity": {
+        "Description": "1. Visual Acuity (Both eyes)",
+        "MinValue": "16",
+        "MaxValue": "160"
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Visual acuity",
+        "TermURL": ""
+    }
+}

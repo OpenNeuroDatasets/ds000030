@@ -1,0 +1,79 @@
+{
+    "adhd7": {
+        "Description": "vii. Do people complain that you talk a lot or interrupt them when that are speaking\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd6": {
+        "Description": "vi. Do you often feel restless or like you are driven by by a motor to remain very busy\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd3": {
+        "Description": "iii. Do you often find that little distractions make it very hard for you to keep your mind on what you are doing\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Modified ADHD Screener",
+        "TermURL": ""
+    },
+    "adhd8": {
+        "Description": "viii. Do you often act or speak before you think\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd5": {
+        "Description": "V. It it often difficult for you to sit still or remain seated for long periods of time\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd1": {
+        "Description": "i. Do you often have trouble focusing on or paying attention to the task at hand, or find yourself making many careless error\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd4": {
+        "Description": "iv. Do you often lose or forget things, or have a lot of trouble satying organized\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd11": {
+        "Description": "xi. Could these symptoms be better accounted for by another mental disorder\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd10": {
+        "Description": "x. When did you/or others first notice these things\""
+    },
+    "adhd9": {
+        "Description": "ix. Do you often worry about these things or do they cause problems\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "adhd2": {
+        "Description": "ii. Do you often have trouble following instructions or listening when other people talk\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}
