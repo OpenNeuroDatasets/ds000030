@@ -1,0 +1,12 @@
+{
+    "TaskName": "pamenc",
+    "TaskFullName": "Paired Associates Memory Task - Encoding",
+    "Instructions": "This next task is the two-part memory test. In Part 1, you will see a set of word pairs and their corresponding pictures. One picture is presented in orange, while the other is in black-and-white. Please press the first button when the orange image is on the left, and press the second when the orange image is on the right. In addition to pressing the button, your task is to memorize the word pairs by trying to form meaningful relationships between them. For example, you could make a story about the two words, or think about how the two words could go together in real life. In part 2, you will be asked to judge how sure you are the words were shown together. Also, on some trials, pairs of orange and black-and-white squares are presented. On these trials, just press the first button if the orange square is on the left, and the second button if the orange square is on the right.",
+    "TaskDescription": "This task was run as a part of the Consortium for Neuropsychiatric Phenomics (CNP) project. It was designed in collaboration with Russ Poldrack, Theo van Erp, and Becca Schwarzlose. It is an associative memory task in which subjects view pairs of objects and must remember not only whether they have seen them before but how they were originally paired.\nFor all encoding trials, one figure is in black and white, and one is in color (orange). The subject must indicate by button press which side the colored object is on (this is the same as the RK encoding paradigm, but different from the NAPLS PAM encoding). Subjects are instructed to remember the objects and the relationship between the objects. The ITI is jittered. The encoding task consists of 64 trials: 24 control trials- pairs of scrambled stimuli, 40 memory trials- pairs of line drawings of objects. Control trials last 2 seconds. Encoding trials last 4 seconds (1 with just words, and then 3 for words + pictures). All time that is not accounted for in between trials is null. PAMenc is 242 TRs long, with a TR of 2000ms.",
+    "CogAtlasID": "trm_4da88a2a63d97",
+    "CogPOID": ""
+}
+
+
+
+

@@ -1,0 +1,12 @@
+{
+    "TaskName": "pamret",
+    "TaskFullName": "Paired Associates Memory Task - Retrieval",
+    "Instructions": "In this next task, you'll be shown correctly and incorrectly paired words from the previous scan. You will be asked to judge how sure you are that the two words were paired during part 1. At the bottom, you will see a rating scale with four response options. Please be sure to use all four options from the rating scale to express how sure you are of your answer. Press the first button if you are sure that the two words are a correct pairing. Press the second button if you think the two words might be a correct pairing. Press the third button if you think the words might be an incorrect pairing. Press the fourth button if you are sure that the words are an incorrect pairing. Also, sometimes you will see just the words \"sure correct,\" \"maybe correct,\" \"maybe incorrect,\" or \"sure incorrect\" presented. On those trials, just press the button corresponding to that response option.",
+    "TaskDescription": "This task was run as a part of the Consortium for Neuropsychiatric Phenomics (CNP) project. It was designed in collaboration with Russ Poldrack, Theo van Erp, and Becca Schwarzlose. It is an associative memory task in which subjects view pairs of objects and must remember not only whether they have seen them before but how they were originally paired.\nFor all encoding trials, one figure is in black and white, and one is in color (orange). The subject must indicate by button press which side the colored object is on (this is the same as the RK encoding paradigm, but different from the NAPLS PAM encoding). Subjects are instructed to remember the objects and the relationship between the objects. The ITI is jittered. The encoding task consists of 64 trials: 24 control trials- pairs of scrambled stimuli, 40 memory trials- pairs of line drawings of objects. Control trials last 2 seconds. Encoding trials last 4 seconds (1 with just words, and then 3 for words + pictures). All time that is not accounted for in between trials is null. PAMenc is 242 TRs long, with a TR of 2000ms.",
+    "CogAtlasID": "trm_4c8991e6e8597",
+    "CogPOID": "COGPO_00078"
+}
+
+
+
+
