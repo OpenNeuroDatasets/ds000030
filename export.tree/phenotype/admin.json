@@ -1,0 +1,67 @@
+{
+    "researchdb": {
+        "Description": "Research database",
+        "Levels": {
+            "T": "I agree to have my research data shared with other investigators",
+            "F": "I do not agree to have my research data shared with other investigators"
+        }
+    },
+    "mriseq": {
+        "Description": "MRI Scan Order"
+    },
+    "flag_reason": {
+        "Description": "Flag reason"
+    },
+    "dq_reason": {
+        "Description": "Drop Reason",
+        "Levels": {
+            "11": "Discontinued: Psychoactive Medication",
+            "15": "Discontinued: MRI- Data Unusable",
+            "3": "Discontinued: SCID",
+            "14": "Discontinued: MRI- Incomplete Scan",
+            "7": "Head Injury/Trauma",
+            "2": "Discontinued: ADHD Screener",
+            "5": "Discontinued: No Show",
+            "12": "Modified ADHD Screening Interview",
+            "9": "Medical Condition",
+            "18": "Withdrew: MRI (please specify)",
+            "6": "Discontinued: Other",
+            "10": "Discontinued: Positive Urinalysis",
+            "4": "Discontinued: Visual Acuity",
+            "13": "Discontinued: MRI- No Show",
+            "16": "Discontinued: MRI- Screen Failure (please specify)",
+            "17": "Discontinued: MRI- Other (please specify)",
+            "1": "Withdrew",
+            "8": "Screen Failure (please specify)"
+        }
+    },
+    "mriseq2": {
+        "Description": "MRI2 Scan Order"
+    },
+    "switchptid": {
+        "Description": "New Patient ID when participant switches to a new group"
+    },
+    "status": {
+        "Description": "Status",
+        "Levels": {
+            "0": "Inactive",
+            "1": "Active",
+            "2": "Completed"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Administrative",
+        "TermURL": ""
+    },
+    "participant_id": {
+        "Description": "Patient ID (after consented system assigned)"
+    },
+    "controlstatus": {
+        "Description": "Control Status",
+        "Levels": {
+            "0": "Inactive",
+            "1": "Active",
+            "2": "Completed"
+        }
+    }
+}

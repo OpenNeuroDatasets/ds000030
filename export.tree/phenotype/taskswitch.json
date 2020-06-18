@@ -1,0 +1,57 @@
+{
+    "ts_costlong": {
+        "Description": "Switch Cost Long Cue interval (Correct trials only). Derived variable. Cost is measured for switch trials minus repeat trials of task (either respond to color or shape). Indicator of'residual' task switching when subjects have ample time to prepare for the switch.",
+        "Derivative": true
+    },
+    "ts_longcongnoswrt": {
+        "Description": "Long Cue interval, congruent, no switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Task switching",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/tsk_4a57abb949e8a"
+    },
+    "ts_longincongswrt": {
+        "Description": "Long Cue interval, incongruent, switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "ts_shortincongnoswrt": {
+        "Description": "Short Cue interval, incongruent, no switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "ts_interference": {
+        "Description": "Interference (Correct trials only). Derived variable. Measured by comparing incongruent trials minus congruent trials. Congruency is determined by whether the cue is necessary to determine button response (i.e. is there response competition between color and shape ).  Indicator of response competition or response inhibition",
+        "Derivative": true
+    },
+    "ts_shortcongswrt": {
+        "Description": "Short Cue interval, congruent, switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "trialcount": {
+        "Description": "total number of task trials completed (excluding practice trials)"
+    },
+    "ts_longcongswrt": {
+        "Description": "Long Cue interval, congruent, switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "ts_longincongnoswrt": {
+        "Description": "Long Cue interval, incongruent, no switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "ts_accuracy": {
+        "Description": "Overall Accuracy across all conditions.",
+        "Derivative": true
+    },
+    "ts_costshort": {
+        "Description": "Switch Cost Short Cue interval (Correct trials only). Derived variable. Cost is measured for switch trials minus repeat trials of task (either respond to color or shape). Primary indicator of task switching.",
+        "Derivative": true
+    },
+    "ts_shortincongswrt": {
+        "Description": "Short Cue interval, incongruent, switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    },
+    "ts_shortcongnoswrt": {
+        "Description": "Short Cue interval, congruent, no switch trial mean reaction time. Intermediate derived variable across trials for conditions noted that is needed to determine RT difference indicators above.",
+        "Derivative": true
+    }
+}
