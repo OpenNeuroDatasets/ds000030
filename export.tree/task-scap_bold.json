@@ -1,0 +1,10 @@
+{
+    "TaskName": "scap",
+    "TaskFullName": "Spatial Working Memory Capacity Tasks (SCAP)",
+    "Instructions": "This task is the one where you have to remember the location of dots. First, you'll see yellow dots on the screen, and your job is to try and remember their locations because after a few seconds they disappear, and a green dot appears. Your job is to say whether the green dot is in the same place as any of the yellow dots, or in a different place. Press the first button if you think the green dot is in the same place as any of the yellow dots, and push the second button if you think the green dot is in a different place than any of the yellow dots. So again, that’s button 1 if it's in the same place, and button 2 if it's in a different place. Any questions?",
+    "TaskDescription": "SCAP is a working memory task that tests the maintenance of spatial information over a delay. Participants are shown an array of 1, 3, 5, or 7 yellow target dots positioned pseudo-randomly around a central fixation. After a variable delay, participants are shown a single green probe dot and are asked to determine if the probe was in the same position as one of the target dots that were shown before the delay. For the task, participants will complete 48 trials. There are 4 loads (1, 3, 5, or 7 dots), with 12 trials per load, and 3 delay durations, resulting in 4 trials per condition. Trial- blocks (target array (2 sec) + delay (1.5, 3, or 4.5 sec) + probe array (3 sec)) last 6.5, 8, or 9.5 sec, depending on the delay duration. ITI’s take up 96 TRs total of the task, and range from 1-4 sec each with a mean of 2 sec. Jittered ITIs replace the need for null trials.",
+    "CogAtlasID": "trm_4f2453b806fe1",
+    "CogPOID": ""
+}
+
+

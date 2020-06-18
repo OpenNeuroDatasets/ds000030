@@ -1,0 +1,290 @@
+{
+    "chapsoc31": {
+        "Description": "31. I have often found it hard to resist talking to a good friend, even whenI have other things to do.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc6": {
+        "Description": "6. Playing with children is a real chore.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc30": {
+        "Description": "30. It made me sad to see all my high school friends go their separate ways when high school was over.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc17": {
+        "Description": "17. I prefer hobbies and leisure activi-ties that do not involve other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Chapman Scales - Social Anhedonia",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_57c0c186b07d4"
+    },
+    "chapsoc34": {
+        "Description": "34. People who try to get to know me better usually give up after awhile.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc11": {
+        "Description": "11. When things are going really good for my close friends, it makes me feel good too.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc2": {
+        "Description": "2. I attach very little importance to having close friends.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc4": {
+        "Description": "4. A car ride is much more enjoyable if someone is with me.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc13": {
+        "Description": "13. My emotional responses seem very different from those of other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc_total": {
+        "Description": "",
+        "Derivative": true
+    },
+    "chapsoc27": {
+        "Description": "27. I am usually content to just sit alone, thinking and daydreaming.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc9": {
+        "Description": "9. I sometimes become deeply attached to people I spend a lot of time with.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc29": {
+        "Description": "29. There are few things more tiring than to have a long, personal discussion with someone.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc22": {
+        "Description": "22. Although I know I should have affection for certain people, I don't really feel it.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc7": {
+        "Description": "7. I have always enjoyed looking at photographs of friends.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc8": {
+        "Description": "8. Although there are things that I enjoy doing by myself, I usually seem to have more fun when I do things with other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc32": {
+        "Description": "32. Making new friends isn't worth the energy it takes.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc18": {
+        "Description": "18. It's fun to sing with other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc20": {
+        "Description": "20. When I move to a new city, I feel a strong need to make new friends.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc21": {
+        "Description": "21. People are usually better off if they stay aloof from emotional involvements with most others.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc15": {
+        "Description": "15. Just being with friends can make me feel really good.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc5": {
+        "Description": "5. I like to make long distance phone calls to friends and relatives.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc24": {
+        "Description": "24. I feel pleased and gratified as I learn more and more about the emotional life of my friends.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc14": {
+        "Description": "14. When I am alone, I often resent people telephoning me or knocking on my door.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc38": {
+        "Description": "38. I don't really feel very close to my friends.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc23": {
+        "Description": "23. People often expect me to spend more time talking with them than Iwould like.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc37": {
+        "Description": "37. I find that people too often assume that their daily activities and opinions will be interesting to me.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc26": {
+        "Description": "26. I never had really close friends in high school.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc40": {
+        "Description": "40. In many ways, I prefer the company of pets to the company of people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc28": {
+        "Description": "28. I'm much too independent to really get involved with other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc36": {
+        "Description": "36. If given the choice, I would much rather be with others than be alone.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc3": {
+        "Description": "3. I prefer watching television to going out with other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc35": {
+        "Description": "35. I could be happy living all alone in a cabin in the woods or mountains.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc33": {
+        "Description": "33. There are things that are more important to me than privacy.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc1": {
+        "Description": "1. Having close friends is not as important as many people say.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc16": {
+        "Description": "16. When things are bothering me, I like to talk to other people about it.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc39": {
+        "Description": "39. My relationships with other people never get very intense.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc19": {
+        "Description": "19. Knowing that I have friends who care about me gives me a sense of security.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc12": {
+        "Description": "12. When someone close to me is depressed, it brings me down also.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc25": {
+        "Description": "25. When others try to tell me about their problems and hang-ups, Iusually listen with interest and attention.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chapsoc10": {
+        "Description": "10. People sometimes think that I am shy when I really just want to be left alone.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    }
+}

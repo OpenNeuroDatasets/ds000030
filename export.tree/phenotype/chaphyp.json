@@ -1,0 +1,346 @@
+{
+    "chaphypo33": {
+        "Description": "I often get so happy and energetic that I am almost giddy.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo32": {
+        "Description": "I am considered to be kind of a \"hyper\" person.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo48": {
+        "Description": "A hundred years after I'm dead, my achievements will probably have been forgotten.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo9": {
+        "Description": "Many people consider me to be amusing but kind of eccentric.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo_total": {
+        "Description": "",
+        "Derivative": true
+    },
+    "chaphypo11": {
+        "Description": "I am frequently in such high spirits that I can't concentrate on any one thing for too long.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo13": {
+        "Description": "People often come to me when they need a clever idea.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo44": {
+        "Description": "I frequently get into moods where I feel very speeded-up and irritable.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo18": {
+        "Description": "I often have moods where I feel so energetic and optimistic that I feel Icould outperform almost anyone at anything.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo45": {
+        "Description": "I have often felt happy and irritable at the same time.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo1": {
+        "Description": "I consider myself to be pretty much an average kind of person.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo27": {
+        "Description": "I like to have others think of me as a normal kind of person.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo34": {
+        "Description": "There are so many fields I could succeed in that it seems a shame to have to pick one.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo29": {
+        "Description": "I have often persuaded groups of friends to do something really adventurous or crazy.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo4": {
+        "Description": "I think I would make a good nightclub comedian.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo20": {
+        "Description": "There have often been times when I had such an excess of energy that Ifelt little need to sleep at night.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo25": {
+        "Description": "When I go to a gathering where I don't know anyone, it usually takes me a while to feel comfortable.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo40": {
+        "Description": "At social gatherings, I am usually the \"life of the party\".",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo43": {
+        "Description": "I have often been so excited about an involving project that I didn't care about eating or sleeping.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo46": {
+        "Description": "I often get into excited moods where it's almost impossible for me to stop talking.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo10": {
+        "Description": "When I feel an emotion, I usually feel it with extreme intensity.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo21": {
+        "Description": "My moods do not seem to fluctuate any more than most people's do.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo28": {
+        "Description": "I frequently write down the thoughts and insights that come to me when Iam thinking especially creatively.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo42": {
+        "Description": "I seem to have an uncommon ability to persuade and inspire others.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo41": {
+        "Description": "I do most of my best work during brief periods of intense inspiration.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Eckblad and Chapman's Hypomanic Personality Scale",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_57c0bf6b14b90"
+    },
+    "chaphypo12": {
+        "Description": "I sometimes have felt that nothing can happen to me until I do what I am meant to do in life.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo17": {
+        "Description": "I am usually in an average sort of mood, not too high and not too low.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo6": {
+        "Description": "When with groups of people, I usually prefer to let someone else be the center of attention.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo16": {
+        "Description": "I can't imagine that anyone would ever write a book about my life.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo24": {
+        "Description": "When I feel very excited and happy, I almost always know the reason why.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo31": {
+        "Description": "I can usually slow myself down when I want to.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo26": {
+        "Description": "I think I would make a good actor, because I can play many roles convincingly.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo2": {
+        "Description": "It would make me nervous to play the clown in front of other people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo7": {
+        "Description": "In unfamiliar surroundings, I am often so assertive and sociable that Isurprise myself.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo37": {
+        "Description": "I seem to be a person whose mood goes up and down easily.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo35": {
+        "Description": "I often get into moods where I feel like many of the rules of life don't apply to me.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo14": {
+        "Description": "I am no more self-aware than the majority of people.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo3": {
+        "Description": "I am frequently so \"hyper\" that my friends kiddingly ask me what drug I'm taking.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo22": {
+        "Description": "I very frequently get into moods where I wish I could be everywhere and do everything at once.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo19": {
+        "Description": "I have such a wide range of interests that I often don't know what to do next.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo38": {
+        "Description": "I frequently find that my thoughts are racing.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo30": {
+        "Description": "I would really enjoy being a politician and hitting the campaign trail.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo39": {
+        "Description": "I am so good at controlling others that it sometimes scares me.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo36": {
+        "Description": "I find it easy to get others to become sexually interested in me.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo15": {
+        "Description": "I often feel excited and happy for no apparent reason.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo23": {
+        "Description": "I expect that someday I will succeed in several different professions.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo47": {
+        "Description": "I would rather be an ordinary success in life than a spectacular failure.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo5": {
+        "Description": "Sometimes ideas and insights come to me so fast that I cannot express them all.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    },
+    "chaphypo8": {
+        "Description": "There are often times when I am so restless that it is impossible for me to sit still.",
+        "Levels": {
+            "0": "False",
+            "1": "True"
+        }
+    }
+}

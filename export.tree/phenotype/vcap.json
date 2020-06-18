@@ -1,0 +1,276 @@
+{
+    "vcap_practice_trial_count": {
+        "Description": ""
+    },
+    "vcap5_fnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_tprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_fp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_tprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_omissionsno_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_capacity5": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_omissions_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_hit5": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_fprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_hit3": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_fn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_fa5": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_tnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_hit9": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_capacity3": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_omissionsno_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_correctrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_fp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_tnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_fprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_fn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_max_capac": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_capacity7": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_fp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_fp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_fa3": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_tnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_fprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_omissions_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_tnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_tp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_tp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_correctrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_average_corr": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_tn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_tp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_correct_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_tn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_omissionsno_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_hit7": {
+        "Description": "",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Verbal working memory capacity",
+        "TermURL": ""
+    },
+    "vcap3_tprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_fn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_correct_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_tp_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_omissionsyes_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_fa7": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_tn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_omissionsyes_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_fnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_omissions_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_fnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_omissions_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_tn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_fprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_correctrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap3_omissionsyes_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_correctrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_tprt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_corr_fa9": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_capacity9": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_omissionsyes_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_fn_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap7_correct_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap5_omissionsno_sum": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap_trial_count": {
+        "Description": ""
+    },
+    "vcap7_fnrt_mean": {
+        "Description": "",
+        "Derivative": true
+    },
+    "vcap9_correct_sum": {
+        "Description": "",
+        "Derivative": true
+    }
+}

@@ -1,0 +1,185 @@
+{
+    "voc_totalraw": {
+        "Description": "1. Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "57"
+    },
+    "mr_time16": {
+        "Description": "16. Item 16: Completion Time"
+    },
+    "lns_totalraw": {
+        "Description": "2. Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "30"
+    },
+    "mr_time4": {
+        "Description": "4. Item 4: Completion Time"
+    },
+    "mr_time17": {
+        "Description": "17. Item 17: Completion Time"
+    },
+    "mr_time16_s": {
+        "Description": "16. Item 16: Completion Time (in second)"
+    },
+    "mr_time2": {
+        "Description": "2. Item 2: Completion Time"
+    },
+    "mr_time26": {
+        "Description": "26. Item 26: Completion Time"
+    },
+    "mr_time14_s": {
+        "Description": "14. Item 14: Completion Time (in second)"
+    },
+    "mr_time6_s": {
+        "Description": "6. Item 6: Completion Time (in second)"
+    },
+    "mr_time22": {
+        "Description": "22. Item 22: Completion Time"
+    },
+    "mr_time1": {
+        "Description": "1. Item 1: Completion Time"
+    },
+    "mr_time13": {
+        "Description": "13. Item 13: Completion Time"
+    },
+    "mr_time3": {
+        "Description": "3. Item 3: Completion Time"
+    },
+    "mr_time9_s": {
+        "Description": "9. Item 9: Completion Time (in second)"
+    },
+    "mr_time14": {
+        "Description": "14. Item 14: Completion Time"
+    },
+    "mr_time19": {
+        "Description": "19. Item 19: Completion Time"
+    },
+    "mr_time18_s": {
+        "Description": "18. Item 18: Completion Time (in second)"
+    },
+    "mr_time25": {
+        "Description": "25. Item 25: Completion Time"
+    },
+    "mr_time1_s": {
+        "Description": "1. Item 1: Completion Time (in second)"
+    },
+    "mr_time8_s": {
+        "Description": "8. Item 8: Completion Time (in second)"
+    },
+    "mr_time12_s": {
+        "Description": "12. Item 12: Completion Time (in second)"
+    },
+    "mr_time6": {
+        "Description": "6. Item 6: Completion Time"
+    },
+    "mr_time26_s": {
+        "Description": "26. Item 26: Completion Time (in second)"
+    },
+    "mr_totalraw": {
+        "Description": "27. Total Raw Score",
+        "MinValue": "0",
+        "Derivative": true,
+        "MaxValue": "26"
+    },
+    "mr_time10": {
+        "Description": "10. Item 10: Completion Time"
+    },
+    "mr_time9": {
+        "Description": "9. Item 9: Completion Time"
+    },
+    "mr_time18": {
+        "Description": "18. Item 18: Completion Time"
+    },
+    "mr_time11": {
+        "Description": "11. Item 11: Completion Time"
+    },
+    "mr_time5_s": {
+        "Description": "5. Item 5: Completion Time (in second)"
+    },
+    "mr_time24": {
+        "Description": "24. Item 24: Completion Time"
+    },
+    "mr_time22_s": {
+        "Description": "22. Item 22: Completion Time (in second)"
+    },
+    "mr_time8": {
+        "Description": "8. Item 8: Completion Time"
+    },
+    "mr_time4_s": {
+        "Description": "4. Item 4: Completion Time (in second)"
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Wechsler Adult Inelligence Scale",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/tsk_4a57abb949f12"
+    },
+    "mr_time10_s": {
+        "Description": "10. Item 10: Completion Time (in second)"
+    },
+    "mr_time23_s": {
+        "Description": "23. Item 23: Completion Time (in second)"
+    },
+    "mr_time15_s": {
+        "Description": "15. Item 15: Completion Time (in second)"
+    },
+    "mr_time21": {
+        "Description": "21. Item 21: Completion Time"
+    },
+    "lns_llns": {
+        "Description": "1. LLNS",
+        "MinValue": "0",
+        "MaxValue": "8"
+    },
+    "mr_time11_s": {
+        "Description": "11. Item 11: Completion Time (in second)"
+    },
+    "mr_time15": {
+        "Description": "15. Item 15: Completion Time"
+    },
+    "mr_time7": {
+        "Description": "7. Item 7: Completion Time"
+    },
+    "mr_time20_s": {
+        "Description": "20. Item 20: Completion Time (in second)"
+    },
+    "mr_time17_s": {
+        "Description": "17. Item 17: Completion Time (in second)"
+    },
+    "mr_time23": {
+        "Description": "23. Item 23: Completion Time"
+    },
+    "mr_time12": {
+        "Description": "12. Item 12: Completion Time"
+    },
+    "mr_time24_s": {
+        "Description": "24. Item 24: Completion Time (in second)"
+    },
+    "mr_time7_s": {
+        "Description": "7. Item 7: Completion Time (in second)"
+    },
+    "mr_time25_s": {
+        "Description": "25. Item 25: Completion Time (in second)"
+    },
+    "mr_time3_s": {
+        "Description": "3. Item 3: Completion Time (in second)"
+    },
+    "mr_time20": {
+        "Description": "20. Item 20: Completion Time"
+    },
+    "mr_time5": {
+        "Description": "5. Item 5: Completion Time"
+    },
+    "mr_time13_s": {
+        "Description": "13. Item 13: Completion Time (in second)"
+    },
+    "mr_time19_s": {
+        "Description": "19. Item 19: Completion Time (in second)"
+    },
+    "mr_time2_s": {
+        "Description": "2. Item 2: Completion Time (in second)"
+    },
+    "mr_time21_s": {
+        "Description": "21. Item 21: Completion Time (in second)"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "scwt_meaninc": {
+        "Description": "Mean RT for Incongruent Trials",
+        "Derivative": true
+    },
+    "scwt_ci_mn_ac": {
+        "Description": "Mean Accuracy for Second Trial of Congruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_acccon": {
+        "Description": "Accuracy for Congruent Trials",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Stroop color-word task",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_4b1968619b00b"
+    },
+    "scwt_ii_mn_ac": {
+        "Description": "Mean Accuracy for Second Trial of Incongruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_conflict_rt_effect": {
+        "Description": "RT conflict effect: incongruent RT - Congruent RT.",
+        "Derivative": true
+    },
+    "scwt_cc_mn_rt": {
+        "Description": "Mean RT for Second Trial of Congruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_ic_trials": {
+        "Description": "Total Number of Incongruent-Congruent Trial Pairs (consecutive trials in which the first trial is incongruent and the second trial is congruent)",
+        "Derivative": true
+    },
+    "scwt_ic_std_rt": {
+        "Description": "SD RT for Second Trial of Incongruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_ic_mn_ac": {
+        "Description": "Mean Accuracy for Second Trial of Incongruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_cc_std_rt": {
+        "Description": "SD RT for Second Trial of Congruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_ii_std_ac": {
+        "Description": "SD Accuracy for Second Trial of Incongruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_sdinc": {
+        "Description": "SD RT for Incongruent Trials",
+        "Derivative": true
+    },
+    "scwt_ci_std_rt": {
+        "Description": "SD RT for Second Trial of Congruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_ii_mn_rt": {
+        "Description": "Mean RT for Second Trial of Incongruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_ii_std_rt": {
+        "Description": "SD RT for Second Trial of Incongruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_cc_std_ac": {
+        "Description": "SD Accuracy for Second Trial of Congruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_ic_std_ac": {
+        "Description": "SD Accuracy for Second Trial of Incongruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_medianinc": {
+        "Description": "Median RT for Incongruent Trials",
+        "Derivative": true
+    },
+    "scwt_meancon": {
+        "Description": "Mean RT for Congruent Trials",
+        "Derivative": true
+    },
+    "scwt_ii_trials": {
+        "Description": "Total Number of Incongruent-Incongruent Trial Pairs (consecutive trials in which the first trial is incongruent and the second trial is incongruent)",
+        "Derivative": true
+    },
+    "scwt_mediancon": {
+        "Description": "Median RT for Congruent Trials",
+        "Derivative": true
+    },
+    "scwt_ci_trials": {
+        "Description": "Total Number of Congruent-Incongruent Trial Pairs (consecutive trials in which the first trial is congruent and the second trial is incongruent)",
+        "Derivative": true
+    },
+    "scwt_ci_mn_rt": {
+        "Description": "Mean RT for Second Trial of Congruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_sdcon": {
+        "Description": "SD RT for Congruent Trials",
+        "Derivative": true
+    },
+    "scwt_conflict_acc_effect": {
+        "Description": "ACC conflict effect: incongruent ACC - Congruent ACC.",
+        "Derivative": true
+    },
+    "scwt_ic_mn_rt": {
+        "Description": "Mean RT for Second Trial of Incongruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_cc_mn_ac": {
+        "Description": "Mean Accuracy for Second Trial of Congruent-Congruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_accinc": {
+        "Description": "Mean Accuracy for Incongruent Trials",
+        "Derivative": true
+    },
+    "scwt_omission": {
+        "Description": "Number of Omission Errors",
+        "Derivative": true
+    },
+    "scwt_ci_std_ac": {
+        "Description": "SD Accuracy for Second Trial of Congruent-Incongruent Trial Pairs",
+        "Derivative": true
+    },
+    "scwt_cc_trials": {
+        "Description": "Total Number of Congruent-Congruent Trial Pairs (consecutive trials in which the first trial is congruent and the second trial is congruent)",
+        "Derivative": true
+    }
+}
