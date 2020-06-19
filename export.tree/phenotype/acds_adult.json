@@ -1,0 +1,949 @@
+{
+    "adultadhd31": {
+        "Description": "31. Fidgets/Squirms",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd12": {
+        "Description": "12. Runs or Climbs Excessively",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd13": {
+        "Description": "13. Difficulty Playing Quietly",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adult_hyperactivity": {
+        "Description": "ADULTADHD10 + ADULTADHD11 + ADULTADHD12 + ADULTADHD13+ ADULTADHD14 + ADULTADHD15 + ADULTADHD16 + ADULTADHD17 + ADULTADHD18",
+        "Levels": {
+            "6": "8,or 9 are qualitative and ignored in the scoring of these summary measures)",
+            "Items": "with values of 1-4 (missing items, or scores of"
+        },
+        "Derivative": true
+    },
+    "adhd_c_ina_a2": {
+        "Description": "2. Work (Adulthood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_c_subtype": {
+        "Description": "If yes, met symptom criteria for following ADHD subtype",
+        "Levels": {
+            "3": "Combined Type",
+            "1": "Predominantly Inattentive Type",
+            "2": "Predominantly Hyperactive/Impulsive Type"
+        }
+    },
+    "childadhd32": {
+        "Description": "32. Fidgets/Squirms",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd1": {
+        "Description": "1. Makes a Lot of Careless Mistakes",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd30": {
+        "Description": "30. Easily distracted",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_b": {
+        "Description": "B. CHILDHOOD ONSET OF ADHD (PRIOR TO AGE 7)\"",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd5": {
+        "Description": "5. Difficulty Organizing Tasks",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd29": {
+        "Description": "29. Easily distracted",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_c_ina_a1": {
+        "Description": "1. School (Adulthood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd39": {
+        "Description": "39. Interrupts or Intrudes",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd2": {
+        "Description": "2. Difficulty Sustaining Attention on Tasks/Play Activities\"",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd14": {
+        "Description": "14. On the Go/Acts Like Driven by Motor",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd11": {
+        "Description": "11. Difficulty Remaining Seated",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adult_duration": {
+        "Description": "ADULTADHD19",
+        "Levels": {
+            "6": "8,or 9 are qualitative and ignored in the scoring of these summary measures)",
+            "Items": "with values of 1-3 (missing items, or scores of"
+        },
+        "Derivative": true
+    },
+    "adultadhd24": {
+        "Description": "24. Doesn't listen",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd6": {
+        "Description": "6. Dislikes/Avoids Tasks Requiring Attention",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd8": {
+        "Description": "8. Easily Distracted",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd9": {
+        "Description": "9. Forgetful in Daily Activities",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd": {
+        "Description": "1  YES, 2  NO",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        },
+        "Derivative": true
+    },
+    "childadhd24": {
+        "Description": "24. Difficulty sustaining attention",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_f_child_dsm": {
+        "Description": "1b. If Yes, DSM-IV Code"
+    },
+    "adultadhd17": {
+        "Description": "17. Difficulty Waiting Turn",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adult_attentionseverity": {
+        "Description": "Sum Adult_Attention, Adult_Duration and Adult_Impairment",
+        "Derivative": true
+    },
+    "adultadhd38": {
+        "Description": "38. Difficulty waiting turn",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd19": {
+        "Description": "19. Duration of childhood symptoms",
+        "Levels": {
+            "3": "",
+            "1": "",
+            "2": "",
+            "9": ""
+        }
+    },
+    "childadhd4": {
+        "Description": "4. Difficulty Following Instructions",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Adult ADHD Clinical Diagnostic Scale V1.2",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_5586ff878155d"
+    },
+    "adultadhd21": {
+        "Description": "21. Assess clinically significant impairment",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd34": {
+        "Description": "34. Runs/Climbs excessively/Inappropriately",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd13": {
+        "Description": "13. Difficulty Playing Quietly",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd14": {
+        "Description": "14. On the Go/Acts Like Driven by Motor",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd18": {
+        "Description": "18. Interrupts or Intrudes",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd26": {
+        "Description": "26. Difficulty following instructions (finishing)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd20": {
+        "Description": "20. Age of Onset",
+        "Levels": {
+            "3": "",
+            "1": "",
+            "2": "",
+            "9": ""
+        }
+    },
+    "adultadhd32": {
+        "Description": "32. Difficulty remaining seated",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adult_attention": {
+        "Description": "ADULTADHD1 + ADULTADHD2 + ADULTADHD3 + ADULTADHD4 + ADULTADHD5 + ADULTADHD6 + ADULTADHD7 + ADULTADHD8 + ADULTADHD9",
+        "Levels": {
+            "6": "8,or 9 are qualitative and ignored in the scoring of these summary measures)",
+            "Items": "with values of 1-4 (missing items, or scores of"
+        },
+        "Derivative": true
+    },
+    "childadhd39": {
+        "Description": "39. Difficulty waiting turn",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd30": {
+        "Description": "30. Forgetful in daily activities",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd22": {
+        "Description": "22. Careless/Sloppy",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd16": {
+        "Description": "16. Blurts Out Answers",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd38": {
+        "Description": "38. Blurts out answers",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd21": {
+        "Description": "21. Some impairment in 2 or more settings(childhood)",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adhd_e_adult": {
+        "Description": "Adulthood history",
+        "Levels": {
+            "3": "",
+            "1": "",
+            "2": ""
+        }
+    },
+    "adultadhd19": {
+        "Description": "19. Duration of adult symptoms",
+        "Levels": {
+            "3": "",
+            "1": "",
+            "2": "",
+            "9": ""
+        }
+    },
+    "childadhd15": {
+        "Description": "15. Talks Excessively",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd35": {
+        "Description": "35. On the go/Driven by a motor",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd36": {
+        "Description": "36. Talks excessively",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd35": {
+        "Description": "35. Difficulty playing quietly",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd5": {
+        "Description": "5. Difficulty Organizing Tasks",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adhd_c_dx": {
+        "Description": "As child met A, B, C, D, E and F diagnostic criteria\"",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd28": {
+        "Description": "28. Avoidance of tasks with sustained mental effort",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd7": {
+        "Description": "7. Loses Things",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd15": {
+        "Description": "15. Talks Excessively",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd18": {
+        "Description": "18. Interrupts or Intrudes",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adult_totalsymptoms": {
+        "Description": "Sum ADULT_ATTENTION and ADULT_HYPERACTIVITY",
+        "Levels": {
+            "6": "8,or 9 are qualitative and ignored in the scoring of these summary measures)",
+            "Items": "with values of 1-4 (missing items, or scores of"
+        },
+        "Derivative": true
+    },
+    "adhd_f_child_subtype": {
+        "Description": "If yes, met symptom criteria for following ADHD subtype",
+        "Levels": {
+            "3": "Combined Type",
+            "1": "Predominantly Inattentive Type",
+            "2": "Predominantly Hyperactive/Impulsive Type"
+        }
+    },
+    "adhd_c_ina_c4": {
+        "Description": "4. Athletics or Clubs (Childhood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd3": {
+        "Description": "3. Doesn't Listen",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd20age": {
+        "Description": "20a. specify age (years)",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "childadhd2": {
+        "Description": "2. Difficulty Sustaining Attention on Tasks/Play Activities\"",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd9": {
+        "Description": "9. Forgetful in Daily Activities",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd25": {
+        "Description": "25. Doesn't listen",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_c_ina_a4": {
+        "Description": "4. Athletics or Clubs (Adulthood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_e_child": {
+        "Description": "Childhood history",
+        "Levels": {
+            "3": "",
+            "1": "",
+            "2": ""
+        }
+    },
+    "childadhd27": {
+        "Description": "27. Difficulty organizing tasks/activities",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd4": {
+        "Description": "4. Difficulty Following Instructions",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adhd_c_ina_c1": {
+        "Description": "1. School (Childhood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd28": {
+        "Description": "28. Loses things",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd20": {
+        "Description": "20. Some impairment in 2 or more settings",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd36": {
+        "Description": "36. On the go/Driven by a motor",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd33": {
+        "Description": "33. Difficulty remaining seated",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd6": {
+        "Description": "6. Dislikes/Avoids Tasks Requiring Attention",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd10": {
+        "Description": "10. Fidget",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd12": {
+        "Description": "12. Runs or Climbs Excessively",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd23": {
+        "Description": "23. Difficulty sustaining attention",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_f_child_dx": {
+        "Description": "As CHILD met A, B, C, D, E and F diagnostic criteria\"",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd16": {
+        "Description": "16. Blurts Out Answers",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd40": {
+        "Description": "40. Interrupts or Intrudes",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adult_hyperactivityseverity": {
+        "Description": "Sum Adult_Hyperactivity, Adult_Duration and Adult_Impairment",
+        "Derivative": true
+    },
+    "adult_totalseverity": {
+        "Description": "Sum Adult_TotalSymptoms, Adult_Duration and Adult_Impairment",
+        "Derivative": true
+    },
+    "adultadhd26": {
+        "Description": "26. Difficulty organizing tasks/activities",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd22": {
+        "Description": "22. Assess clinically significant impairment",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd31": {
+        "Description": "31. Forgetful in daily activities",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd10": {
+        "Description": "10. Fidget",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd33": {
+        "Description": "33. Runs/Climbs excessively/Inappropriately",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd23": {
+        "Description": "23. Careless/Sloppy",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd7": {
+        "Description": "7. Loses Things",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adult_impairment": {
+        "Description": "ADULTADHD20 + ADULTADHD21",
+        "Levels": {
+            "6": "8,or 9 are qualitative and ignored in the scoring of these summary measures)",
+            "Items": "with values of 1-4 (missing items, or scores of"
+        },
+        "Derivative": true
+    },
+    "adultadhd27": {
+        "Description": "27. Avoidance of tasks with sustained mental effort",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_f_child": {
+        "Description": "1a. Childhood",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_c_ina_a3": {
+        "Description": "3. Home (Adulthood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd1": {
+        "Description": "1. Makes a Lot of Careless Mistakes",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adhd_c_ina_c3": {
+        "Description": "3. Home (Childhood History)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd25": {
+        "Description": "25. Difficulty following instructions (finishing)",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adhd_f_adult": {
+        "Description": "2a. Adulthood",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd11": {
+        "Description": "11. Difficulty Remaining Seated",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd29": {
+        "Description": "29. Loses things",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd17": {
+        "Description": "17. Difficulty Waiting Turn",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd8": {
+        "Description": "8. Easily Distracted",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "childadhd3": {
+        "Description": "3. Doesn't Listen",
+        "Levels": {
+            "8": "",
+            "6": "",
+            "3": "",
+            "4": "",
+            "2": "",
+            "1": "",
+            "9": ""
+        }
+    },
+    "adultadhd37": {
+        "Description": "37. Blurts out answers",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "childadhd37": {
+        "Description": "37. Talks excessively",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    },
+    "adultadhd34": {
+        "Description": "34. Difficulty playing quietly",
+        "Levels": {
+            "1": "YES",
+            "2": "NO"
+        }
+    }
+}

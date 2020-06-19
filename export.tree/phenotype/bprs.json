@@ -1,0 +1,376 @@
+{
+    "bprs1": {
+        "Description": "1. Somatic Concern",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs24": {
+        "Description": "24. Mannerisms and Posturing",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs20": {
+        "Description": "20. Uncooperativeness",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs6": {
+        "Description": "6. Hostility",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "assessqother": {
+        "Description": "Other",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "bprs_positive": {
+        "Description": "average of 9, 10, 11, 12, 14",
+        "Derivative": true
+    },
+    "bprs13": {
+        "Description": "13. Self-neglect",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs14": {
+        "Description": "14. Disorientation",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs21": {
+        "Description": "21. Excitement",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs8": {
+        "Description": "8. Grandiosity",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs12": {
+        "Description": "12. Bizarre Behavior",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs17": {
+        "Description": "17. Emotional Withdrawal",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs2": {
+        "Description": "2. Anxiety",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs22": {
+        "Description": "22. Distractibility",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs4": {
+        "Description": "4. Suicidality",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "assessqrapport": {
+        "Description": "Under reported due to lack of rapport",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "assessquncooprative": {
+        "Description": "Patient uncooperative",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "bprs23": {
+        "Description": "23. Motor hyperactivity",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs15": {
+        "Description": "15. Conceptual Disorganization",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs_negative": {
+        "Description": "average of 13, 16, 17, 18",
+        "Derivative": true
+    },
+    "bprs_mania": {
+        "Description": "average of 6, 7, 8, 21, 22, 23",
+        "Derivative": true
+    },
+    "assessqdisorder": {
+        "Description": "Difficult to assess due to formal thought disorder",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "bprs10": {
+        "Description": "10. Hallucinations",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs19": {
+        "Description": "19. Tension",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Brief Psychiatric Rating Scale",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_55a6a52537c2b"
+    },
+    "bprs7": {
+        "Description": "7. Elevated Mood",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs5": {
+        "Description": "5. Guilt",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs16": {
+        "Description": "16. Blunted Affect",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs3": {
+        "Description": "3. Depression",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "srcrelatives": {
+        "Description": "Parents/Relatives",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "assessqsymptom": {
+        "Description": "Symptoms possibly substance-induced",
+        "Levels": {
+            "0": "",
+            "1": ""
+        }
+    },
+    "bprs11": {
+        "Description": "11. Unusual Thought Content",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "confidencassess": {
+        "Description": "1    not at all - 5    very confident",
+        "MinValue": "1",
+        "MaxValue": "5"
+    },
+    "bprs9": {
+        "Description": "9. Suspiciousness",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "bprs_depanx": {
+        "Description": "average of 2, 3, 4, 5",
+        "Derivative": true
+    },
+    "bprs18": {
+        "Description": "18. Motor Retardation",
+        "Levels": {
+            "6": "Severe",
+            "3": "Mild",
+            "4": "Moderate",
+            "2": "Very Mild",
+            "5": "Moderately Severe",
+            "7": "Extremely Severe",
+            "1": "Not Present"
+        }
+    },
+    "srcprofessional": {
+        "Description": "Mental health professionals",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "srcchart": {
+        "Description": "Chart",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "srcpatient": {
+        "Description": "Patient",
+        "Levels": {
+            "1": " Check"
+        }
+    },
+    "srcother": {
+        "Description": "Other (e.g., police report)",
+        "Levels": {
+            "1": " Check"
+        }
+    }
+}

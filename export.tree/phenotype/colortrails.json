@@ -1,0 +1,55 @@
+{
+    "crt_pr2": {
+        "Description": "9. Color Trails 2 Prompts",
+        "MinValue": "0",
+        "MaxValue": "50"
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Color Trails Test",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_4da633fe917c4"
+    },
+    "crt_err2": {
+        "Description": "6. Color Trails 2 Color Error",
+        "MinValue": "0",
+        "MaxValue": "50"
+    },
+    "crt_time2": {
+        "Description": "5. Color Trails 2 (seconds)",
+        "MinValue": "0",
+        "MaxValue": "240.0"
+    },
+    "crt_pr1": {
+        "Description": "4. Color Trails 1 Prompts",
+        "MinValue": "0",
+        "MaxValue": "50"
+    },
+    "crt_nm2": {
+        "Description": "8. Color Trails 2 Near-Misses",
+        "MinValue": "0",
+        "MaxValue": "50"
+    },
+    "crt_nm1": {
+        "Description": "3. Color Trails 1 Near-Misses",
+        "MinValue": "0",
+        "MaxValue": "50"
+    },
+    "crt_time1": {
+        "Description": "1. Color Trails 1 (seconds)",
+        "MinValue": "0",
+        "MaxValue": "240.0"
+    },
+    "crt_err1": {
+        "Description": "2. Color Trails 1 Error",
+        "MinValue": "0",
+        "MaxValue": "50"
+    },
+    "crt_index": {
+        "Description": "10. Interference Index",
+        "Derivative": true
+    },
+    "crt_ne2": {
+        "Description": "7. Color Trails 2 Number Errors",
+        "MinValue": "0",
+        "MaxValue": "50"
+    }
+}

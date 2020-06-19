@@ -1,0 +1,210 @@
+{
+    "cigs_mons": {
+        "Description": "18d. Months smoking",
+        "MinValue": "0",
+        "MaxValue": "11"
+    },
+    "school_yrs": {
+        "Description": "13. How many years of school complete\"",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "language2": {
+        "Description": "5c. Second",
+        "Levels": {
+            "3": "Other",
+            "1": "English",
+            "2": "Spanish"
+        }
+    },
+    "cigs": {
+        "Description": "18. Have you ever smoked cigarettes on a daily basis\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes current",
+            "2": "Yes past"
+        }
+    },
+    "race_1": {
+        "Description": "6b. Race 1",
+        "Levels": {
+            "6": "More than one race",
+            "3": "Native Hawaiian/Pacific Islander",
+            "4": "Black/African American",
+            "2": "Asian",
+            "5": "White",
+            "1": "American Indian or Alaskan Native"
+        }
+    },
+    "race_2": {
+        "Description": "6c. Race 2",
+        "Levels": {
+            "6": "More than one race",
+            "3": "Native Hawaiian/Pacific Islander",
+            "4": "Black/African American",
+            "2": "Asian",
+            "5": "White",
+            "1": "American Indian or Alaskan Native"
+        }
+    },
+    "religion": {
+        "Description": "9. Childhood religious affiliation:",
+        "Levels": {
+            "6": "Other",
+            "3": "Jewish",
+            "4": "Muslim",
+            "2": "Protestant",
+            "5": "Not Affiliated",
+            "1": "Catholic"
+        }
+    },
+    "civil_stat": {
+        "Description": "10. Marital status:",
+        "Levels": {
+            "5": "Never Married",
+            "3": "Divorced",
+            "4": "Widowed",
+            "1": "Married",
+            "2": "Separated"
+        }
+    },
+    "cigs_pack": {
+        "Description": "18a. If yes, estimate number of packs per day",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "race_3": {
+        "Description": "6d. Race 3",
+        "Levels": {
+            "6": "More than one race",
+            "3": "Native Hawaiian/Pacific Islander",
+            "4": "Black/African American",
+            "2": "Asian",
+            "5": "White",
+            "1": "American Indian or Alaskan Native"
+        }
+    },
+    "school_degree": {
+        "Description": "13a. Degree(s)",
+        "Levels": {
+            "8": "Other",
+            "6": "master's degree",
+            "3": "Some college",
+            "4": "Associate's degree",
+            "2": "High school",
+            "5": "Bachelor's degree",
+            "7": "Ph.D/MD/PsyD",
+            "1": "No high school"
+        }
+    },
+    "adopt": {
+        "Description": "3. Adopted:",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "marriage_num": {
+        "Description": "10a. If Married(legally), how many times:",
+        "MinValue": "0",
+        "MaxValue": "9"
+    },
+    "sexuality": {
+        "Description": "11a. If yes, subject's response",
+        "Levels": {
+            "3": "Bisexual",
+            "4": "Other",
+            "1": "Heterosexual",
+            "2": "Homosexual"
+        }
+    },
+    "sexuality_opt": {
+        "Description": "11. Comfortable sharing sexual orientation\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "cigs_yrs": {
+        "Description": "18c. years smoking",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "age": {
+        "Description": "1. Age",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Demographics",
+        "TermURL": ""
+    },
+    "cigs_cigs": {
+        "Description": "18b. If yes, estimate number of cigarettes per day",
+        "MinValue": "0",
+        "MaxValue": "19"
+    },
+    "race_main": {
+        "Description": "6a. Race Main",
+        "Levels": {
+            "6": "More than one race",
+            "3": "Native Hawaiian/Pacific Islander",
+            "4": "Black/African American",
+            "2": "Asian",
+            "5": "White",
+            "1": "American Indian or Alaskan Native"
+        }
+    },
+    "gender": {
+        "Description": "2. Sex:",
+        "Levels": {
+            "1": "Male",
+            "2": "Female"
+        }
+    },
+    "residence": {
+        "Description": "10c. Living alone or with others:",
+        "Levels": {
+            "8": "Other",
+            "6": "In shared home w/ other relatives/friends",
+            "3": "In own home w/ spouse and/or children",
+            "4": "In home of parents or children",
+            "2": "With Partner not married",
+            "5": "In home of siblings/non-lineal relatives",
+            "7": "In Residential Treatment Facility",
+            "1": "Alone"
+        }
+    },
+    "ethnicity": {
+        "Description": "6e. Ethnicity",
+        "Levels": {
+            "1": "Hispanic origin",
+            "2": "Not of Hispanic origin"
+        }
+    },
+    "language1": {
+        "Description": "5a. First",
+        "Levels": {
+            "3": "Other",
+            "1": "English",
+            "2": "Spanish"
+        }
+    },
+    "children_num": {
+        "Description": "10b. How many living children:",
+        "MinValue": "0",
+        "MaxValue": "99"
+    },
+    "cigs_past": {
+        "Description": "18e. If smoker before, how many years ago did you quit\"",
+        "MinValue": "0",
+        "MaxValue": "99.9"
+    },
+    "school_back": {
+        "Description": "14. Ever held back in school\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

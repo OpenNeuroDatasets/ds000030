@@ -1,0 +1,189 @@
+{
+    "la2khealth18": {
+        "Description": "18. Have you gained or lose more than 20 pounds in the last year\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth18_lost": {
+        "Description": "Weight Loss (Lbs.)"
+    },
+    "ht_ft": {
+        "Description": "1. Height: FEET",
+        "MinValue": "1",
+        "MaxValue": "9"
+    },
+    "la2khealth10": {
+        "Description": "10. Asthma, emphysema, tuberculosis, pleurisy or other diseases of the lungs\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Health Questionnaire",
+        "TermURL": ""
+    },
+    "ht_in": {
+        "Description": "1. Height: INCH",
+        "MinValue": "0",
+        "MaxValue": "11"
+    },
+    "la2khealth16": {
+        "Description": "16. Are you still smoking\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth19": {
+        "Description": "19. Are you actively at work at least 20 hours per week\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth1": {
+        "Description": "1. Heart or Artery disease including heart attack, stroke, aneurysm, arteriosclerosis, chest pain, rheumatic, fever or heart murmur\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth8": {
+        "Description": "8. Ulcer, colitis, difficulty swallowing, stomach problems, hernia or rectal problems\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth6": {
+        "Description": "6. AIDS, AIDS-related complex or other immune deficiency disorders, infections or chronic infection problems\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "ht": {
+        "Description": "Height in inches",
+        "MinValue": "1",
+        "MaxValue": "90"
+    },
+    "la2khealth14": {
+        "Description": "14. Any other medical condition that has not been disclosed above\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth15": {
+        "Description": "15. Have you smoked in the last 2 year\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth7": {
+        "Description": "7. Alcohol or substance abuse, mental/nervous disorders\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth17": {
+        "Description": "17. Are you taking any medication (except antibiotics or contraceptives)that require a prescription by a physician\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth14s": {
+        "Description": "14s. If so, describe in detail here."
+    },
+    "bmi": {
+        "Description": "BMI calculated using formula based on pounds ",
+        "Derivative": true
+    },
+    "la2khealth21": {
+        "Description": "21. Have you been told that it may be necessary to be admitted to the hospital or have surgery in the future\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth9": {
+        "Description": "9. Diabetes, cystic fibrosis, albumin or sugar in the urine or other endocrine problems\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "wt": {
+        "Description": "1. Weight (Pound)",
+        "MinValue": "0",
+        "MaxValue": "450"
+    },
+    "la2khealth4": {
+        "Description": "4. Diseases of the kidney, liver, gall bladder, pancreas, or male/female organs including venereal disease\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth11": {
+        "Description": "11. Paralysis, epilepsy, M.S. or other neuromuscular disorder\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth_score": {
+        "Description": "Sum of Items 1-21 for Total Health Score."
+    },
+    "la2khealth20": {
+        "Description": "20. Have you been admitted to a hospital or had surgery in the past five(5) years\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth3": {
+        "Description": "3. Cancer, tumor or other malignancy\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth18_gain": {
+        "Description": "Weight Gain (Lbs.)"
+    },
+    "la2khealth5": {
+        "Description": "5. Arthritis, back pain, rheumatic fever or musculoskeletal/joint problems\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth12": {
+        "Description": "12. Bleeding or blood disorders\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth13": {
+        "Description": "13. Are you now pregnant\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    },
+    "la2khealth2": {
+        "Description": "2. Hypertension\"",
+        "Levels": {
+            "0": "No",
+            "1": "Yes"
+        }
+    }
+}

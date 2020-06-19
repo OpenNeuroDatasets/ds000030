@@ -1,0 +1,431 @@
+{
+    "factor_bizarrebehav": {
+        "Description": "average items 21-24",
+        "Derivative": true
+    },
+    "factor_posformalthought": {
+        "Description": "average items 26-33",
+        "Derivative": true
+    },
+    "saps17": {
+        "Description": "17. Thoughts of Broadcasting",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps1": {
+        "Description": "1. Auditory Hallucinations",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps34": {
+        "Description": "34. Global Rating of Positive and Formal Thought Disorder",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps28": {
+        "Description": "28. Incoherence",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps32": {
+        "Description": "32. Distractable Speech",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "global_bizarrebehav": {
+        "Description": "item 25",
+        "Derivative": true
+    },
+    "saps13": {
+        "Description": "13. Somatic Delusions",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps3": {
+        "Description": "3. Voices Conversing",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps15": {
+        "Description": "15. Delusions of Being Controlled",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "global_inappaffect": {
+        "Description": "item 35",
+        "Derivative": true
+    },
+    "saps19": {
+        "Description": "19. Thought Withdrawal",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "factor_delusions": {
+        "Description": "average items 8-19",
+        "Derivative": true
+    },
+    "saps5": {
+        "Description": "5. Olfactory Hallucinations",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps22": {
+        "Description": "22. Social and Sexual Behavior",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "global_delusions": {
+        "Description": "item 20",
+        "Derivative": true
+    },
+    "factor_hallucinations": {
+        "Description": "average items 1, 2, 3, 4, 5, 6",
+        "Derivative": true
+    },
+    "saps9": {
+        "Description": "9. Delusions of Jealousy",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps16": {
+        "Description": "16. Delusions of Mind Reading",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps29": {
+        "Description": "29. Illogicality",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps21": {
+        "Description": "21. Clothing and Appearance",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "factor_inappaffect": {
+        "Description": "item 35",
+        "Derivative": true
+    },
+    "saps30": {
+        "Description": "30. Circumstantiality",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps8": {
+        "Description": "8. Persecutory Delusions",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps11": {
+        "Description": "11. Grandiose Delusions",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "global_posformalthought": {
+        "Description": "item 34",
+        "Derivative": true
+    },
+    "saps12": {
+        "Description": "12. Religious Delusions",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps25": {
+        "Description": "25. Global Rating of Bizarre Behavior",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps23": {
+        "Description": "23. Aggressive and Agitate Behavior",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps6": {
+        "Description": "6. Visual Hallucinations",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Scale for the Assessment of Positive Symptoms",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_55a6cffbcb5f7"
+    },
+    "saps18": {
+        "Description": "18. Thought Insertion",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps20": {
+        "Description": "20. Global Rating of Delusion",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps7": {
+        "Description": "7. Global Ratings of Hallucinations",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps2": {
+        "Description": "2. Voices Commenting",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps26": {
+        "Description": "26. Derailment",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps24": {
+        "Description": "24. Repetitive or Stereotyped Behavior",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps35": {
+        "Description": "35. Inappropriate Affect",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps14": {
+        "Description": "14. Delusions of Reference",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps31": {
+        "Description": "31. Pressure of Speech",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps27": {
+        "Description": "27. Tangetiality",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps10": {
+        "Description": "10. Delusions of Guilt or Sin",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "saps33": {
+        "Description": "33. Clanging",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    },
+    "global_hallucinations": {
+        "Description": "item 7",
+        "Derivative": true
+    },
+    "saps4": {
+        "Description": "4. Somatic or Tactile Hallucinations",
+        "Levels": {
+            "3": "Moderate",
+            "4": "Marked",
+            "2": "Mild",
+            "5": "Severe",
+            "0": "None",
+            "1": "Questionable"
+        }
+    }
+}
