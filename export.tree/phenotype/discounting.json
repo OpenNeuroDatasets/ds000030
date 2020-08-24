@@ -1,0 +1,66 @@
+{
+    "ddt_md_rt": {
+        "Description": "Median reaction time for all trials",
+        "Derivative": true
+    },
+    "ddt_medium_incon": {
+        "Description": "Inconsistent responding within the medium sums of money (3 or more responses are not consistent with the assigned medium k value). Inconsistent responding suggests that the assigned k value is not a good fit for the data. Exclude subject from analyses.",
+        "Derivative": true
+    },
+    "ddt_log_large_k": {
+        "Description": "The natural log of the k value for large sums of money. Done to reduce skewness.",
+        "Derivative": true
+    },
+    "ddt_large_incon": {
+        "Description": "Inconsistent responding within the large sums of money (3 or more responses are not consistent with the assigned large k value). Inconsistent responding suggests that the assigned k value is not a good fit for the data. Exclude subject from analyses.",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Delay discounting",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_56bbee951f161"
+    },
+    "ddt_large_k": {
+        "Description": "k value for large sums of money ($75 to $85)",
+        "Derivative": true
+    },
+    "ddt_medium_k": {
+        "Description": "k value for medium sums of money ($50 to $60)",
+        "Derivative": true
+    },
+    "ddt_mn_rt": {
+        "Description": "Mean reaction time for all trials",
+        "Derivative": true
+    },
+    "ddt_sd_rt": {
+        "Description": "Standard deviation of reaction time for all trials",
+        "Derivative": true
+    },
+    "ddt_small_k": {
+        "Description": "k value for small sums of money ($25 to $35)",
+        "Derivative": true
+    },
+    "ddt_total_k": {
+        "Description": "k value for all sums of money ($25 to $85). Taken as the geometric mean of small k, medium k, and large k",
+        "Derivative": true
+    },
+    "ddt_log_small_k": {
+        "Description": "The natural log of the k value for small sums of money. Done to reduce skewness.",
+        "Derivative": true
+    },
+    "ddt_items7_typo": {
+        "Description": "This indicates if there was a typo on item 7, in which the delay period is off (should be \"13 days\" but the typo says \"136 days\"). The scoring algorithm adjusts for the typo, but this variable may be used to exclude typo data if desired.",
+        "Derivative": true
+    },
+    "ddt_log_total_k": {
+        "Description": "The natural log of the k value for all sums of money. Done to reduce skewness.",
+        "Derivative": true
+    },
+    "ddt_small_incon": {
+        "Description": "Inconsistent responding within the small sums of money (3 or more responses are not consistent with the assigned small k value). Inconsistent responding suggests that the assigned k value is not a good fit for the data. Exclude subject from analyses.",
+        "Derivative": true
+    },
+    "ddt_log_medium_k": {
+        "Description": "The natural log of the k value for medium sums of money. Done to reduce skewness.",
+        "Derivative": true
+    }
+}

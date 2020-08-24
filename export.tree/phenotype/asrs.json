@@ -1,0 +1,78 @@
+{
+    "overactive": {
+        "Description": "6. How often do you feel overly active and compelled to do things, like you were driven by a motor\"",
+        "Levels": {
+            "0": "Never",
+            "3": "Often",
+            "4": "Very Often",
+            "1": "Rarely",
+            "2": "Sometimes"
+        }
+    },
+    "organize": {
+        "Description": "2. How often do you have difficulty getting things in order when you have to do a task that requires organization\"",
+        "Levels": {
+            "0": "Never",
+            "3": "Often",
+            "4": "Very Often",
+            "1": "Rarely",
+            "2": "Sometimes"
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Adult Self-Report Scale-V1.1 Screener",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_55a6a79b55c8b"
+    },
+    "asrs_score": {
+        "Description": "Sum of item 1 to 6",
+        "Derivative": true
+    },
+    "finaldetail": {
+        "Description": "1. How often do you have trouble wrapping up the final details of a project, once the challenging parts have been done\"",
+        "Levels": {
+            "0": "Never",
+            "3": "Often",
+            "4": "Very Often",
+            "1": "Rarely",
+            "2": "Sometimes"
+        }
+    },
+    "asrs_flag": {
+        "Description": "If ASRS_EXCLUSIONSCORE is 4 or higher then ASRS_FLAG    1 else ASRS_FLAG    0",
+        "Derivative": true
+    },
+    "asrs_exclusionscore": {
+        "Description": "1 point for items 1-3 if the item score is 2 or higher1 point for items 4-6 if the item score is 3 or higher",
+        "Derivative": true
+    },
+    "remappointment": {
+        "Description": "3. How often do you have problems remembering appointments or obligations\"",
+        "Levels": {
+            "0": "Never",
+            "3": "Often",
+            "4": "Very Often",
+            "1": "Rarely",
+            "2": "Sometimes"
+        }
+    },
+    "aviodstart": {
+        "Description": "4. When you have a task that requires a lot of thought, how often do you avoid or delay getting started\"",
+        "Levels": {
+            "0": "Never",
+            "3": "Often",
+            "4": "Very Often",
+            "1": "Rarely",
+            "2": "Sometimes"
+        }
+    },
+    "fidget": {
+        "Description": "5. How often do you fidget or squirm with your hands or feet when you have to sit down for a long time\"",
+        "Levels": {
+            "0": "Never",
+            "3": "Often",
+            "4": "Very Often",
+            "1": "Rarely",
+            "2": "Sometimes"
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "smnm_main_mn": {
+        "Description": "Mean Accuracy for Maintenance trials",
+        "Derivative": true
+    },
+    "smnm_main_sdrt": {
+        "Description": "SD for Maintenance task RTs",
+        "Derivative": true
+    },
+    "smnm_manip_sdrt": {
+        "Description": "SD for Manipulation task RTs",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Spatial Memory and Manipulation Task",
+        "TermURL": ""
+    },
+    "smnm_main_mnrt": {
+        "Description": "Mean Reaction Time for Maintenance task",
+        "Derivative": true
+    },
+    "smnm_manip_tt": {
+        "Description": "Total manipulation Trials responded to",
+        "Derivative": true
+    },
+    "smnm_main_acc": {
+        "Description": "Total number of maintenance trials responded to correctly",
+        "Derivative": true
+    },
+    "smnm_main_mdrt": {
+        "Description": "Median Reaction Time for Maintenance",
+        "Derivative": true
+    },
+    "smnm_manip_mn": {
+        "Description": "Mean Accuracy for Manipulation trials",
+        "Derivative": true
+    },
+    "smnm_main_tt": {
+        "Description": "Total maintenance trials responded to",
+        "Derivative": true
+    },
+    "smnm_manip_mdrt": {
+        "Description": "Median Reaction Time for Manipulation",
+        "Derivative": true
+    },
+    "smnm_manip_mnrt": {
+        "Description": "Mean Reaction Time for Manipulation task",
+        "Derivative": true
+    },
+    "smnm_trialcount": {
+        "Description": "Total number of trials in the task (full experiment    40)",
+        "Derivative": true
+    },
+    "smnm_manip_acc": {
+        "Description": "Total number of manipulation trials responded to correctly",
+        "Derivative": true
+    }
+}
