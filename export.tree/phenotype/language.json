@@ -1,0 +1,20 @@
+{
+    "bilingual": {
+        "Description": "Bilingual",
+        "Levels": {
+            "Y": "",
+            "N": ""
+        }
+    },
+    "languagespeaking": {
+        "Description": "Language Speaking",
+        "Levels": {
+            "Spanish": "",
+            "English": ""
+        }
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Language",
+        "TermURL": ""
+    }
+}

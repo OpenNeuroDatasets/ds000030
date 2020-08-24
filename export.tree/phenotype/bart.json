@@ -1,0 +1,130 @@
+{
+    "bart_coefvar": {
+        "Description": "Coefficient of variation of adjusted pumps. This is the standard deviation of adjusted pumps divided by the mean adjusted pumps.",
+        "Derivative": true
+    },
+    "bart_ratiomeanredtoblueadjpumps": {
+        "Description": "Ratio of mean red adjusted pumps to mean blue adjusted pumps. Higher numbers indicate more similarity in pumps between the red and blue balloons (lower means the opposite)",
+        "Derivative": true
+    },
+    "bart_meanrtred": {
+        "Description": "Mean reaction time of button presses on the red balloons",
+        "Derivative": true
+    },
+    "bart_meanblueadjustedpumps": {
+        "Description": "Mean adjusted pumps for blue balloons",
+        "Derivative": true
+    },
+    "MeasurementToolMetadata": {
+        "Description": "Balloon Analog Risk Task",
+        "TermURL": "http://www.cognitiveatlas.org/task/id/trm_4d559bcd67c18"
+    },
+    "bart_meanrtblue": {
+        "Description": "Mean reaction time of button presses on the blue balloons",
+        "Derivative": true
+    },
+    "bart_sdrt": {
+        "Description": "Standard deviation of the reaction time for all button presses",
+        "Derivative": true
+    },
+    "bart_blueexplosions": {
+        "Description": "Total number of explosions on blue balloons",
+        "Derivative": true
+    },
+    "bart_quart1blueadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the blue balloons on trials 1-10",
+        "Derivative": true
+    },
+    "bart_meanrt": {
+        "Description": "Mean reaction time on all button presses (pumps and cashouts)",
+        "Derivative": true
+    },
+    "bart_meanredafterexpl": {
+        "Description": "Mean adjusted pumps on red balloons immediately after an explosion on the preceding trial",
+        "Derivative": true
+    },
+    "bart_meanadjustedpumps": {
+        "Description": "Mean adjusted pumps for all balloons for whole task",
+        "Derivative": true
+    },
+    "bart_quart3redadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the red balloons on trials 21-30",
+        "Derivative": true
+    },
+    "bart_quart1redadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the red balloons on trials 1-10",
+        "Derivative": true
+    },
+    "bart_meanredadjustedpumps": {
+        "Description": "Mean adjusted pumps for red balloons",
+        "Derivative": true
+    },
+    "bart_cashoutwopump": {
+        "Description": "The number of times a participant cashed out of a trial without pumping. This can be used to exclude problematic cases.",
+        "Derivative": true
+    },
+    "bart_quart4redadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the red balloons on trials 31-40.",
+        "Derivative": true
+    },
+    "bart_totaladjustedpumps": {
+        "Description": "Total adjusted pumps for all balloons for whole task. Adjusted pumps are the pumps on balloons which did not explode.",
+        "Derivative": true
+    },
+    "bart_meanblueafterexpl": {
+        "Description": "Mean adjusted pumps on blue balloons immediately after an explosion on the preceding trial",
+        "Derivative": true
+    },
+    "bart_redexplosions": {
+        "Description": "Total number of explosions on red balloons",
+        "Derivative": true
+    },
+    "bart_sdblueadjustedpumps": {
+        "Description": "Standard deviation of adjusted pumps on blue balloons",
+        "Derivative": true
+    },
+    "bart_sdadjustedpumps": {
+        "Description": "Standard deviation of adjusted pumps for whole task",
+        "Derivative": true
+    },
+    "bart_quart3blueadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the blue balloons on trials 21-30",
+        "Derivative": true
+    },
+    "bart_quart4blueadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the blue balloons on trials 31-40",
+        "Derivative": true
+    },
+    "bart_quart2redadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the red balloons on trials 11-20",
+        "Derivative": true
+    },
+    "bart_coefvarred": {
+        "Description": "Coefficient of variation of adjusted pumps on the red balloons. This is the standard deviation of red adjusted pumps divided by the mean red adjusted pumps.",
+        "Derivative": true
+    },
+    "bart_medianrt": {
+        "Description": "Median of the reaction time on all button presses (pumps and cashouts)",
+        "Derivative": true
+    },
+    "bart_quart2blueadjustedpumps": {
+        "Description": "Mean of the adjusted pumps of the blue balloons on trials 11-20",
+        "Derivative": true
+    },
+    "bart_totalpointssession": {
+        "Description": "This is the total points earned for the whole task (5 points per adjusted pump). It should equal the total number of adjusted pumps multiplied by 5.",
+        "Derivative": true
+    },
+    "bart_coefvarblue": {
+        "Description": "Coefficient of variation of adjusted pumps on the blue balloons. This is the standard deviation of blue adjusted pumps divided by the mean blue adjusted pumps.",
+        "Derivative": true
+    },
+    "bart_sdredadjustedpumps": {
+        "Description": "Standard deviation of adjusted pumps on red balloons",
+        "Derivative": true
+    },
+    "bart_trialcomp": {
+        "Description": "Number of trials completed. This should equal 40. If not, the data should beEXCLUDED.",
+        "Derivative": true
+    }
+}

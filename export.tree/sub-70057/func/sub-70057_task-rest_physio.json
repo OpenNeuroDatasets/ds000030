@@ -1,0 +1,14 @@
+{
+    "Units": [
+        "Volts", 
+        "Volts", 
+        "Volts"
+    ], 
+    "SamplingFrequency": 1000.0, 
+    "Columns": [
+        "galvanic_skin_response", 
+        "respiration", 
+        "pulse"
+    ], 
+    "StartTime": 0.0
+}
